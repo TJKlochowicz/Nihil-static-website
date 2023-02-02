@@ -12,11 +12,12 @@ layout: header
 
   <div class="row">
     
-    {% assign name = "Tobi" %}
+    {% for project in projects %}
+    <h2>{{project.title}}</h2>
+    <h3>{{project.start}}</h3>
+    <h4>{{project.end}}</h4>
 
-    {% if name %}
-      <p>This text will always appear since "name" is defined.</p>
-    {% endif %}
+    {%endfor%}
 
 
 
