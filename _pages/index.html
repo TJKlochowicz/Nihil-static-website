@@ -10,18 +10,17 @@ layout: header
     </div>
   </div>
 
-{%if 0==0:%}
-<p> number </p>
-<p> number </p>
-<p> number </p>
-<p> number </p>
-<p> number </p>
-<p> number </p>
-<p> number </p>
-<p> number </p>
-<p> number </p>
-<p> number </p>
+  {%- for project in projects %}
+  <div class="col">
+            {%- if project.website -%}
+            <a href="{{ project.website }}" class="text-dark plain">
+              {{project.title}}
+            </a>
+            {%- else -%}
+            {{project.title}}
+            {%- endif -%}
+  </div>
+  {%- endfor %}
 
-{%endif%}
 
 
