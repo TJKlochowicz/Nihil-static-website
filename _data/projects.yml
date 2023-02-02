@@ -1,33 +1,11 @@
-- title: Questions in sign language
-  start: 2022
-  end: 2027
-  funding: [nwo]
-  grant_type: VICI
-  people:
-    - id: froelofsen
-      function: PI
-      location: Amsterdam
-    - id: moomen
-      function: Postdoc
-      location: Amsterdam
-    - id: rveigabusto
-      function: Postdoc
-      location: Amsterdam  
-  featured: true
+- title: "Project 1"
+  start: "2023"
+  end: "2026"
 
-- title: New territories for modal logic
-  start: 2021
-  end: 2026
-  funding: [dfg]
-  grant_type: Emmy Noether
-  people:
-    - id: iciardelli
-      function: PI
-      location: Munich
-    - id: ggrilletti
-      function: Postdoc
-      location: Munich
-    - id: aommundsen
-      function: PhD student
-      location: Munich
-  featured: true
+- title: "Project 2"
+  start: "2023"
+  end: "2026"
+
+- title: "Project 3"
+  start: "2023"
+  end: "2026"
