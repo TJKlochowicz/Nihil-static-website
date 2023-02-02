@@ -1,0 +1,20 @@
+---
+layout: header
+input: GFM
+---
+
+<div class="row title-row">
+    <div class="col">
+        <h1>Seminar Meetings</h1>
+    </div>
+</div>
+
+{%for sem in site.data.seminars%}
+<div class="row title-row">
+    <div class="col">
+        <h3>{{sem.date}}</h4>
+        <h4> {{sem.author}}</h4>
+        <p>{{sem.abstract}}</p>
+    </div>
+</div>
+{%endfor%}
