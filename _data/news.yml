@@ -1,0 +1,30 @@
+# News
+# ==========
+#
+# This file contains a list of news items, with two fields:
+#
+#   - date: yyyy-01-01
+#     text: >
+#       **Markdown** text of the message
+#       You can use multiple lines as long as the indentation is right
+#
+# ===================================================================
+
+- date: 2023-01-01
+  text: >
+    **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Cras ut dignissim augue. 
+    In at commodo lectus, nec ullamcorper mauris. Etiam blandit, nibh sit amet porta tincidunt, 
+    odio quam ultrices leo, sit amet dictum felis augue non elit.
+
+- date: 2023-01-02
+  text: >
+    **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Cras ut dignissim augue. 
+    In at commodo lectus, nec ullamcorper mauris. Etiam blandit, nibh sit amet porta tincidunt, 
+     odio quam ultrices leo, sit amet dictum felis augue non elit.
+
+- date: 2023-03-01
+  text: >
+    **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Cras ut dignissim augue. 
+    In at commodo lectus, nec ullamcorper mauris. Etiam blandit, nibh sit amet porta tincidunt, 
+    odio quam ultrices leo, sit amet dictum felis augue non elit.
+

@@ -1,0 +1,20 @@
+---
+layout: header
+input: GFM
+---
+
+<div class="row title-row">
+    <div class="col">
+        <h1>News</h1>
+    </div>
+</div>
+
+{%for news in site.data.news%}
+
+<div class="row title-row">
+    <div class="col">
+        <h4>{{news.date}}</h4>
+        <p>{{news.text}}</p>
+    </div>
+</div>
+{%endfor%}
