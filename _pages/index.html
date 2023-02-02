@@ -11,6 +11,7 @@ layout: header
   </div>
 
   {%- for project in projects %}
+  <div class="row">
   <div class="col">
             {%- if project.website -%}
             <a href="{{ project.website }}" class="text-dark plain">
@@ -19,6 +20,7 @@ layout: header
             {%- else -%}
             {{project.title}}
             {%- endif -%}
+        </div>
   </div>
   {%- endfor %}
 
