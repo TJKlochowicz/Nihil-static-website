@@ -7,13 +7,18 @@ layout: header
     
     <div class="col">
         <h1>The Nihil Project</h1>
+        {{site.url}}
     </div>
 </div>
+{%for number in site.pages%}
+{{number.url}}
+{%endfor%}
 
   <div class="row">
     <div class="col">
     
     {% for project in site.data.projects %}
+    <h1> For loop reached! <h1>
     <h2>{{project.title}}</h2>
     <h3>{{project.start}}</h3>
     <h4>{{project.end}}</h4>
