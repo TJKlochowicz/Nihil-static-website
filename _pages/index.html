@@ -8,24 +8,16 @@ layout: header
     <div class="col">
         <h1>The Nihil Project</h1>
     </div>
-  </div>
+</div>
 
-  {%- for project in projects %}
   <div class="row">
-  <div class="col">
-    <p>"Reached the for loop"</p>
-    <p>"Reached the for loop"</p><p>"Reached the for loop"</p>
-    <p>"Reached the for loop"</p>
-            {%- if project.website -%}
-            <a href="{{ project.website }}" class="text-dark plain">
-              {{project.title}}
-            </a>
-            {%- else -%}
-            {{project.title}}
-            {%- endif -%}
-        </div>
-  </div>
-  {%- endfor %}
+    
+    {% assign name = "Tobi" %}
+
+    {% if name %}
+      <p>This text will always appear since "name" is defined.</p>
+    {% endif %}
+
 
 
 
