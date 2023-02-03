@@ -1,9 +1,28 @@
 ---
 layout: header
+
 ---
 
 <div class="row title-row">
     <div class="col">
         <h1> NihiL People</h1>
     </div>
+</div>
+{%assign allPeople = site.data.people%}
+<div class="row">
+{%for person in allPeople %}
+{%if person.url%}
+<div class="col-sm-4">
+    <img src={{person.img}}, class="profile-img">
+   <p><a href={{person.url}} class="person-link"><b>{{person.name}}</b></a></p> 
+    <p>{{person.affiliation}}</p>
+</div>
+{%else%}
+<div class="col-sm-4">
+    <img src={{person.img}}, class="profile-img">
+    <p><b>{{person.name}}</b></p>
+    <p>{{person.affiliation}}</p>
+</div>
+{%endif%}
+{%endfor%}
 </div>

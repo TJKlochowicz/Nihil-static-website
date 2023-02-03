@@ -21,6 +21,10 @@ body{
     font-size: 110%;
 }
 
+.person-link{
+    all: unset;
+}
+
 @media only screen and (min-width: 768px)  {
 .row{
     margin: 5% 20% 2% 20%;
