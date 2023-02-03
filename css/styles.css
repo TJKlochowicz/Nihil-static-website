@@ -1,5 +1,7 @@
 body{
-    background-color:aliceblue;
+    /* background-color:aliceblue; */
+    background-image: url('bgimage.jpg');
+    color: black;
 }
 
 /* .navbar{
