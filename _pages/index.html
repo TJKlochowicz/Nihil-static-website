@@ -25,14 +25,15 @@ layout: header
 </div>
 
   <div class="row news-row">
-  {%assign latestNews = site.data.news | slice: 0,3%}
+  {%assign latestNews = site.data.news | sort:"date" | reverse | slice: 0,3%}
 
   {%for news in latestNews%}
     <div class="col-sm-4">
-        <h4>{{news.date | markdownify}}</h4>
+        <h4>{{news.date  | date: "%-d %B %Y"}}</h4>
+        <hr>
         <p>{{news.text | markdownify}}</p>
     </div>
-{%endfor%}
+  {%endfor%}
 
 </div>
 

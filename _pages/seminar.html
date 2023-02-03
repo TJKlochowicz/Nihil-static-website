@@ -8,11 +8,11 @@ input: GFM
         <h1>Seminar Meetings</h1>
     </div>
 </div>
-
-{%for sem in site.data.seminars%}
+{%assign allSeminars = site.data.seminars | sort:"date" | reverse %}
+{%for sem in allSeminars%}
 <div class="row">
     <div class="col">
-        <h3>{{sem.date}}</h4>
+        <h3>{{sem.date | date: "%-d %B %Y"}}</h4>
         <h4> <b>{{sem.author}}</b></h4>
         <p>{{sem.abstract}}</p>
     </div>
