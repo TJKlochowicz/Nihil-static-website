@@ -11,10 +11,10 @@ input: GFM
 
 {%for news in site.data.news%}
 
-<div class="row title-row">
+<div class="row row">
     <div class="col">
-        <h4>{{news.date}}</h4>
-        <p>{{news.text}}</p>
+        <h4>{{news.date | markdownify}}</h4>
+        <p>{{news.text | markdownify}}</p>
     </div>
 </div>
 {%endfor%}

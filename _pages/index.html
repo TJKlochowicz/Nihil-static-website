@@ -4,7 +4,7 @@ layout: header
 ---
 <div class="row title-row">
     <div class="col">
-        <h1>The Nihil Project</h1>
+        <h1>N∅thing is Logical</h1>
     </div>
 </div>
 
@@ -16,6 +16,25 @@ layout: header
     <p>We develop logics which formally represent the neglect-zero tendency and rigorously study its impact on interpretation; explore possible conventionalizations of neglect-zero effects in specific linguistic domains; and experimentally investigate the impact of neglect-zero in ordinary reasoning and its conjectured suspension for example in the context of a mathematical proof.</p>
   </div>
   </div>
+
+  <div class="row latest-row">
+    <div class="col">
+        <h2>Latest news</h2>
+        <hr>
+    </div>
+</div>
+
+  <div class="row news-row">
+  {%assign latestNews = site.data.news | slice: 0,3%}
+
+  {%for news in latestNews%}
+    <div class="col-sm-4">
+        <h4>{{news.date | markdownify}}</h4>
+        <p>{{news.text | markdownify}}</p>
+    </div>
+{%endfor%}
+
+</div>
 
 
 
