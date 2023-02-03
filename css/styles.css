@@ -25,6 +25,13 @@ body{
     all: unset;
 }
 
+.person-image{
+    rotate: 90;
+    width: 150px;
+    height:200px
+
+}
+
 @media only screen and (min-width: 768px)  {
 .row{
     margin: 5% 20% 2% 20%;

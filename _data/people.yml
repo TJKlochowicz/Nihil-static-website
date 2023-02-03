@@ -17,35 +17,35 @@
 
 - name: Maria Aloni
   affiliation: University of Amsterdam
-  img: _site\assets\images\emptyset.png
+  img: assets/images/emptyset.png
   url: https://www.marialoni.org/
 
 - name: Aleksi Anttila
   affiliation: University of Helsinki
-  img: css/bgimage.jpg
+  img: assets/images/emptyset.png
   url: https://researchportal.helsinki.fi/en/persons/aleksi-ilari-anttila
 
 - name: Søren Brinck Knudstorp
   affiliation: University of Amsterdam
-  img: emptyset.png
+  img: assets/images/emptyset.png
   url:
 
 - name: Marco Degano
   affiliation: University of Amsterdam
-  img: emptyset.png
+  img: assets/images/emptyset.png
   url: https://m-degano.github.io/
 
 - name: Tomasz Klochowicz
   affiliation: University of Amsterdam
-  img: emptyset.png
+  img: assets/images/emptyset.png
   url:
 
 - name: Peter van Ormondt
   affiliation: University of Amsterdam
-  img: emptyset.png
+  img: assets/images/emptyset.png
   url: https://www.vanormondt.net/~peter/
 
 - name: Jialiang Yan
   affiliation: University of Amsterdam and Tsinghua University
-  img: emptyset.png
+  img: assets/images/emptyset.png
   url: https://yanjialiang.com/  

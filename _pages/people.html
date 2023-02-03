@@ -13,13 +13,14 @@ layout: header
 {%for person in allPeople %}
 {%if person.url%}
 <div class="col-sm-4">
-    <img src={{person.img}}, class="profile-img">
-   <p><a href={{person.url}} class="person-link"><b>{{person.name}}</b></a></p> 
+    {%assign image = person.img%}
+    <img src="{{ image | relative_url }}" class="person-image">
+     <p><a href={{person.url}} class="person-link"><b>{{person.name}}</b></a></p> 
     <p>{{person.affiliation}}</p>
 </div>
 {%else%}
 <div class="col-sm-4">
-    <img src={{person.img}}, class="profile-img">
+    <img src="{{ image | relative_url }}" class="person-image">
     <p><b>{{person.name}}</b></p>
     <p>{{person.affiliation}}</p>
 </div>
