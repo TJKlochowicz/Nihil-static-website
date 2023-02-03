@@ -1,14 +1,27 @@
-- date: 2023-01-01
-  author: Aristotle
-  abstract: >
-    Very interesting paper about very interesting things is the context of very interesting phenomena that we are eager to discuss!
+# Seminars
+# ==========
+# Contains a list of seminar items, with five fields:
+# 
+#   - date: yyyy-mm-dd HH:MM
+#     author:
+#     title: Paper title
+#     location: ILLC seminar room F1.15 in Science Park 107
+#     abstract: >
+#       **Markdown** text of the message
+#
+#       
+#===========
+# ATENTION! This file is very indentation sensitive. 
+# It is much easier to edit in a local editor (e.g. vs code)
+# If you are editing on github please be careful while copy-pasting the template.
+#
+# Events are automatically sorted.
+# ===================================================================
 
-- date: 2023-02-01
-  author: Name Surname
+
+- date: 2023-01-20 16:00
+  author: Aleksi Antilla
+  title: Paper title
+  location: ILLC seminar room F1.15 in Science Park 107
   abstract: >
-      Very interesting paper about very interesting things is the context of very interesting phenomena that we are eager to discuss
-      
-- date: 2023-02-01
-  author: Name Surname
-  abstract: >
-      Very interesting paper about very interesting things is the context of very interesting phenomena that we are eager to discuss
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut dignissim augue. In at commodo lectus, nec ullamcorper mauris. Etiam blandit, nibh sit amet porta tincidunt, odio quam ultrices leo, sit amet dictum felis augue non elit.

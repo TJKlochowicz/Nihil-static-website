@@ -1,36 +1,40 @@
 # News
 # ==========
-#
-# This file contains a list of news items, with two fields:
-#
-#   - date: yyyy-01-01
+# Contains a list of news items, with three fields:
+# 
+#   - date: yyyy-mm-dd
 #     text: >
 #       **Markdown** text of the message
-#       You can use multiple lines as long as the indentation is right
 #
+#     url: Can be omitted
+#       
+#===========
+# ATENTION! This file is very indentation sensitive. 
+# It is much easier to edit in a local editor (e.g. vs code)
+# If you are editing on github please be careful while copy-pasting the template.
+#
+# Events are automatically sorted.
 # ===================================================================
 
-- date: 2023-01-01
+- date: 2023-01-23
   text: >
-    **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Cras ut dignissim augue. 
-    In at commodo lectus, nec ullamcorper mauris. Etiam blandit, nibh sit amet porta tincidunt, 
-    odio quam ultrices leo, sit amet dictum felis augue non elit.
+    ### MoL defense of Bo Flachs
 
-- date: 2023-01-02
-  text: >
-    **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Cras ut dignissim augue. 
-    In at commodo lectus, nec ullamcorper mauris. Etiam blandit, nibh sit amet porta tincidunt, 
-     odio quam ultrices leo, sit amet dictum felis augue non elit.
+    Title: Neglect-Zero Effects on Indicative Conditionals: Extending BSML and BiUS with an implication
 
-- date: 2023-03-01
+    Location: Room F1.15, Science Park 107, Amsterdam
+
+    Supervisor: Maria Aloni
+  url: https://www.illc.uva.nl/NewsandEvents/Archives/current/#item14070
+
+- date: 2023-02-02
   text: >
-    **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Cras ut dignissim augue. 
-    In at commodo lectus, nec ullamcorper mauris. Etiam blandit, nibh sit amet porta tincidunt, 
-    odio quam ultrices leo, sit amet dictum felis augue non elit.
-    
-- date: 2023-03-02
-  text: >
-    **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Cras ut dignissim augue. 
-    In at commodo lectus, nec ullamcorper mauris. Etiam blandit, nibh sit amet porta tincidunt, 
-    odio quam ultrices leo, sit amet dictum felis augue non elit.
+    ### LIRa session: Jialiang Yan
+
+    **Title**: Knowing and believing an epistemic possibility
+
+    **Abstract**: What does it mean to know or believe that something might be the case? In this talk, we address the issue focusing on the epistemic possibility expressed by English might when embedded under the propositional attitude verbs know and believe. 
+    We present some puzzles to highlight the challenges arising from such know-might and believe-might sentences...
+
+  url: https://projects.illc.uva.nl/lgc/seminar/2022/12/lira-session-jialiang-yan/
 

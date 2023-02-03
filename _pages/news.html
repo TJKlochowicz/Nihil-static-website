@@ -10,10 +10,14 @@ input: GFM
 </div>
 {%assign allNews = site.data.news | sort:"date" | reverse %}
 {%for news in allNews %}
-<div class="row row">
+<div class="row news-row">
     <div class="col">
         <h4>{{news.date | date: "%-d %B %Y"}}</h4>
         <p>{{news.text | markdownify}}</p>
+        {%if news.url%}
+        <a href={{news.url}}>See more </a>
+        {%endif%}
+        <hr>
     </div>
 </div>
 {%endfor%}

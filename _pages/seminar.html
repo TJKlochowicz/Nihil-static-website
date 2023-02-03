@@ -12,8 +12,11 @@ input: GFM
 {%for sem in allSeminars%}
 <div class="row">
     <div class="col">
-        <h3>{{sem.date | date: "%-d %B %Y"}}</h4>
         <h4> <b>{{sem.author}}</b></h4>
+        <h4>{{sem.date | date: "%-d %B %Y %H:%M"}}</h4>
+        <h5>{{sem.location}}</h5>
+        <hr>
+        <h4><em>{{sem.title}}</em></h4>
         <p>{{sem.abstract}}</p>
     </div>
 </div>
