@@ -3,9 +3,7 @@
 # Contains a list of news items, with three fields:
 # 
 #   - name: 
-#     affiliation: >
-#       **Markdown** text of the message
-#
+#     affiliation:
 #     url: Can be omitted
 #       
 #===========
@@ -15,3 +13,32 @@
 #
 # Events are automatically sorted.
 # ===================================================================
+
+- name: Maria Aloni
+  affiliation: University of Amsterdam
+  url: https://www.marialoni.org/
+
+- name: Aleksi Anttila
+  affiliation: University of Helsinki
+  url: https://researchportal.helsinki.fi/en/persons/aleksi-ilari-anttila
+
+- name: Søren Brinck Knudstorp
+  affiliation: University of Amsterdam
+  url:
+
+- name: Marco Degano
+  affiliation: University of Amsterdam
+  url: https://m-degano.github.io/
+
+- name: Tomasz Klochowicz
+  affiliation: University of Amsterdam
+  url:
+
+- name: Peter van Ormondt
+  affiliation: University of Amsterdam
+  url: https://www.vanormondt.net/~peter/
+
+- name: Jialiang Yan
+  affiliation: University of Amsterdam and Tsinghua University
+  url: https://yanjialiang.com/
+  
