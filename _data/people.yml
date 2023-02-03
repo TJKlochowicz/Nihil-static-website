@@ -1,0 +1,17 @@
+# News
+# ==========
+# Contains a list of news items, with three fields:
+# 
+#   - name: 
+#     affiliation: >
+#       **Markdown** text of the message
+#
+#     url: Can be omitted
+#       
+#===========
+# ATENTION! This file is very indentation sensitive. 
+# It is much easier to edit in a local editor (e.g. vs code)
+# If you are editing on github please be careful while copy-pasting the template.
+#
+# Events are automatically sorted.
+# ===================================================================
