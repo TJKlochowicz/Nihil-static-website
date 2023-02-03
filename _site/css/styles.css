@@ -46,4 +46,27 @@ body{
 
 }
 }
+/* Publications styling */
+.publications-row{
+    margin-bottom: 0%;
+}
+#bibbase{
+    margin: 4%;
+    font-family: "Computer Modern Sans", sans-serif;
+} 
 
+.dontprint{
+    display: none;
+
+}
+
+.bibbase_group{
+    background-color: transparent;
+}
+
+@media only screen and (min-width: 768px)  {
+    #bibbase{
+        margin: 2% 20% 2% 20%;
+    
+    }
+}
