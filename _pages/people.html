@@ -14,7 +14,7 @@ layout: header
 {%if person.url%}
 <div class="col-sm-4">
     {%assign image = person.img%}
-    <img src="{{ image | relative_url }}" class="person-image">
+    <img src="{{ image | absolute_url }}" class="person-image">
      <p><a href={{person.url}} class="person-link"><b>{{person.name}}</b></a></p> 
     <p>{{person.affiliation}}</p>
 </div>
