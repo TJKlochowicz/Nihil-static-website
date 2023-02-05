@@ -17,7 +17,7 @@
 
 - name: Maria Aloni
   affiliation: University of Amsterdam
-  img: assets/images/emptyset.png
+  img: emptyset.png
   url: https://www.marialoni.org/
 
 - name: Aleksi Anttila
@@ -37,7 +37,7 @@
 
 - name: Tomasz Klochowicz
   affiliation: University of Amsterdam
-  img: assets/images/emptyset.png
+  img: assets/images/tklochowicz.png
   url:
 
 - name: Peter van Ormondt
