@@ -3,21 +3,26 @@
 # Contains a list of news items, with four fields:
 # 
 #   - name: 
-#     affiliation:
-#     img: emptyset.png
+#     affiliation:      
+#     img: assets/images/emptyset.png 
 #     url: Can be omitted
-#       
+#      
+#===========
+# Please nae the file with an initial and a surname: Tomasz Klochowicz -> tklochowicz.png
+# Upload the file to the "images" folder in the "assets" folder
+#
+# The url field links to the personal website.
 #===========
 # ATENTION! This file is very indentation sensitive. 
 # It is much easier to edit in a local editor (e.g. vs code)
 # If you are editing on github please be careful while copy-pasting the template.
 #
-# Events are automatically sorted.
+# People are displayed from top to bottom of this file (not sorted).
 # ===================================================================
 
 - name: Maria Aloni
   affiliation: University of Amsterdam
-  img: emptyset.png
+  img:  assets/images/emptyset.png
   url: https://www.marialoni.org/
 
 - name: Aleksi Anttila

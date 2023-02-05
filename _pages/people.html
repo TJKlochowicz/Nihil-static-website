@@ -19,6 +19,7 @@ layout: header
     <p>{{person.affiliation}}</p>
 </div>
 {%else%}
+{%assign image = person.img%}
 <div class="col-sm-4">
     <img src="{{ image | base_url }}" class="person-image">
     <p><b>{{person.name}}</b></p>
