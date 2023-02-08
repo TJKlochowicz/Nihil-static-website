@@ -8,7 +8,7 @@
 #     url: Can be omitted
 #      
 #===========
-# Please nae the file with an initial and a surname: Tomasz Klochowicz -> tklochowicz.png
+# Please name the file with an initial and a surname: Tomasz Klochowicz -> tklochowicz.png
 # Upload the file to the "images" folder in the "assets" folder
 # The filepath for the image is assets/images/[FILENAME]
 # If there is no picture you can use: assets/images/emptyset.png to display the empty set. 
