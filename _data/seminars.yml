@@ -21,7 +21,7 @@
 
 - date: 2023-01-20 16:00
   author: Aleksi Antilla
-  title: Paper title
+  title: An Axiomatization of Bilateral State-based Modal Logic'
   location: ILLC seminar room F1.15 in Science Park 107
   abstract: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut dignissim augue. In at commodo lectus, nec ullamcorper mauris. Etiam blandit, nibh sit amet porta tincidunt, odio quam ultrices leo, sit amet dictum felis augue non elit.
+    **Abstract:** Bilateral State-based Modal Logic (BSML) is a modal logic employing team/state-based semantics which can be used to model free choice inference and other natural language phenomena. We introduce a natural deduction system for BSML as well as for two extensions: BSML with the inquisitive disjunction and BSML with a novel emptiness operator. We also study the expressive power of these logics—we show that the two extensions are expressively complete.
