@@ -1,6 +1,5 @@
 ---
 layout: header
-input: GFM
 ---
 
 <div class="row title-row">
@@ -17,7 +16,7 @@ input: GFM
         <h5>{{sem.location}}</h5>
         <hr>
         <h4><em>{{sem.title}}</em></h4>
-        <p>{{sem.abstract}}</p>
+        <p>{{sem.abstract | markdownify}}</p>
     </div>
 </div>
 {%endfor%}

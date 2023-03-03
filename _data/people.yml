@@ -47,10 +47,10 @@
   img: assets/images/emptyset.png
   url:
 
-- name: Peter van Ormondt
-  affiliation: University of Amsterdam
-  img: assets/images/emptyset.png
-  url: https://www.vanormondt.net/~peter/
+# - name: Peter van Ormondt
+#   affiliation: University of Amsterdam
+#   img: assets/images/emptyset.png
+#   url: https://www.vanormondt.net/~peter/
 
 - name: Jialiang Yan
   affiliation: University of Amsterdam and Tsinghua University
