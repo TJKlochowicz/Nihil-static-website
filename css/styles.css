@@ -77,3 +77,8 @@ body{
     
     }
 }
+
+.bibbase.bibbase_page {
+    display: none;
+}
+
