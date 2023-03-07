@@ -8,23 +8,44 @@ layout: header
         <h1> NihiL People</h1>
     </div>
 </div>
-{%assign allPeople = site.data.people%}
+{%assign allPeople = site.data.people | sort:"lastname"%}
 <div class="row">
 {%for person in allPeople %}
+{%if person.role != "none"%}
 {%if person.url%}
 <div class="col-sm-4">
     {%assign image = person.img%}
     <img src="{{ image | base_url }}" class="person-image">
-     <p><a href={{person.url}} class="person-link"><b>{{person.name}}</b></a></p> 
+     <p><a href={{person.url}} class="person-link"><b>{{person.name}} {{person.lastname}}</b></a></p> 
     <p>{{person.affiliation}}</p>
 </div>
 {%else%}
 {%assign image = person.img%}
 <div class="col-sm-4">
     <img src="{{ image | base_url }}" class="person-image">
-    <p><b>{{person.name}}</b></p>
+    <p><b>{{person.name}} {{person.lastname}}</b></p>
     <p>{{person.affiliation}}</p>
 </div>
 {%endif%}
+{%endif%}
 {%endfor%}
+{%for person in allPeople%}
+{%if person.role == "none"%}
+{%if person.url%}
+    <div class="col-sm-4">
+        {%assign image = person.img%}
+        <img src="{{ image | base_url }}" class="person-image">
+         <p><a href={{person.url}} class="person-link"><b>{{person.name}} {{person.lastname}}</b></a></p> 
+        <p>{{person.affiliation}}</p>
+    </div>
+{%else%}
+    {%assign image = person.img%}
+    <div class="col-sm-4">
+        <img src="{{ image | base_url }}" class="person-image">
+        <p><b>{{person.name}} {{person.lastname}}</b></p>
+        <p>{{person.affiliation}}</p>
+    </div>
+    {%endif%}
+    {%endif%}
+    {%endfor%}
 </div>

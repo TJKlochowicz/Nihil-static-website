@@ -1,6 +1,7 @@
 body{
-    /* background-color:aliceblue; */
+    /* background-color:rgb(247, 251, 255); */
     background-image: url('bgimage.jpg');
+
     color: black;
 }
 
@@ -82,3 +83,18 @@ body{
     display: none;
 }
 
+.past-row{
+    margin-bottom: -2%;
+}
+
+/* .btn:active{
+    outline: 0;
+    border-color: transparent;
+}
+.btn:focus{
+    outline: 0;
+    border-color: transparent;
+} */
+.arrow{
+    font-size: 60%;
+}

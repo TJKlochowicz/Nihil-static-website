@@ -7,8 +7,21 @@ layout: header
         <h1>Seminar Meetings</h1>
     </div>
 </div>
-{%assign allSeminars = site.data.seminars | sort:"date" | reverse %}
+
+
+
+<div class="row title-row">
+    <div class="col">
+        <h2>Upcoming Meetings</h2>
+        <hr>
+    </div>
+</div>
+
+{%assign allSeminars = site.data.seminars | sort:"date"%}
+{%assign now = site.time | date: "%s"%}
 {%for sem in allSeminars%}
+{%assign date = sem.date | date: "%s"%}
+{%if date > now%}
 <div class="row">
     <div class="col">
         <h4> <b>{{sem.author}}</b></h4>
@@ -19,4 +32,38 @@ layout: header
         <p>{{sem.abstract | markdownify}}</p>
     </div>
 </div>
+{%endif%}
 {%endfor%}
+
+
+{%assign allSeminars = site.data.seminars | sort:"date" | reverse%}
+
+<div class="row title-row past-row">
+    <div class="col">
+        <button class="btn past-btn" type="button" data-toggle="collapse" data-target="#collapseExample" aria-pressed = "false" aria-expanded="false" aria-controls="collapseExample">
+            <h2> Past Meetings  <i class="fa-solid fa-chevron-right arrow"></i></h2> 
+          </button>
+        <hr>
+    </div>
+</div>
+
+  <div class="collapse" id="collapseExample">
+    {%for sem in allSeminars%}
+    {%assign date = sem.date | date: "%s"%}
+    {%if date < now%}
+    <div class="row">
+        <div class="col">
+            <h4> <b>{{sem.author}}</b></h4>
+            <h4>{{sem.date | date: "%-d %B %Y %H:%M"}}</h4>
+            <h5>{{sem.location}}</h5>
+            <hr>
+            <h4><em>{{sem.title}}</em></h4>
+            <p>{{sem.abstract | markdownify}}</p>
+        </div>
+    </div>
+    {%endif%}
+    {%endfor%}
+
+  </div>
+    
+

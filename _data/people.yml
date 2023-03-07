@@ -2,7 +2,8 @@
 # ==========
 # Contains a list of news items, with four fields:
 # 
-#   - name: 
+#   - names:
+#     lastname:
 #     affiliation:      
 #     img: assets/images/emptyset.png 
 #     url: Can be omitted
@@ -22,37 +23,79 @@
 # People are displayed from top to bottom of this file (not sorted).
 # ===================================================================
 
-- name: Maria Aloni
+- name: Maria 
+  lastname: Aloni
   affiliation: University of Amsterdam
-  img:  assets/images/emptyset.png
+  img:  assets/images/maloni.jpg
   url: https://www.marialoni.org/
+  role: main
 
-- name: Aleksi Anttila
+- name: Aleksi 
+  lastname: Anttila
   affiliation: University of Helsinki
   img: assets/images/emptyset.png
   url: https://researchportal.helsinki.fi/en/persons/aleksi-ilari-anttila
+  role: none
 
-- name: Søren Brinck Knudstorp
+- name: Søren Brinck 
+  lastname: Knudstorp
   affiliation: University of Amsterdam
-  img: assets/images/emptyset.png
+  img: assets/images/sknudstorp.png
   url:
+  role: main
 
-- name: Marco Degano
+- name: Marco 
+  lastname: Degano
   affiliation: University of Amsterdam
-  img: assets/images/emptyset.png
+  img: assets/images/mdegano.jpg
   url: https://m-degano.github.io/
+  role: main
 
-- name: Tomasz Klochowicz
+- name: Tomasz  
+  lastname: Klochowicz
+  affiliation: University of Amsterdam
+  img: assets/images/tklochowicz.png
+  url:
+  role: main
+
+- name: Peter van  
+  lastname: Ormondt
   affiliation: University of Amsterdam
   img: assets/images/emptyset.png
-  url:
+  url: https://www.vanormondt.net/~peter/
+  role: none
 
-# - name: Peter van Ormondt
-#   affiliation: University of Amsterdam
-#   img: assets/images/emptyset.png
-#   url: https://www.vanormondt.net/~peter/
-
-- name: Jialiang Yan
+- name: Jialiang  
+  lastname: Yan
   affiliation: University of Amsterdam and Tsinghua University
   img: assets/images/emptyset.png
-  url: https://yanjialiang.com/  
+  url: https://yanjialiang.com/ 
+  role: none
+
+- name: Nick  
+  lastname: Bezhanishvili 
+  affiliation: University of Amsterdam
+  img: assets/images/nbezhanishvili.jpeg
+  url: https://staff.fnwi.uva.nl/n.bezhanishvili/ 
+  role: none
+
+- name: Floris  
+  lastname: Roelofsen
+  affiliation: University of Amsterdam
+  img: assets/images/froelofsen.jpg
+  url: https://www.florisroelofsen.com/
+  role: none
+
+- name: Giorgio  
+  lastname: Sbardolini
+  affiliation:  Munich Center for Mathematical Philosophy
+  img: assets/images/emptyset.png
+  url: https://sites.google.com/view/giorgiosbardolini/home
+  role: none
+
+- name: Fan  
+  lastname: Yang
+  affiliation:  Utrecht University
+  img: assets/images/emptyset.png
+  url: https://sites.google.com/site/fanyanghp/ 
+  role: none
