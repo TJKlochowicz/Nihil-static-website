@@ -25,3 +25,17 @@
   location: ILLC seminar room F1.15 in Science Park 107
   abstract: >
     **Abstract:** Bilateral State-based Modal Logic (BSML) is a modal logic employing team/state-based semantics which can be used to model free choice inference and other natural language phenomena. We introduce a natural deduction system for BSML as well as for two extensions: BSML with the inquisitive disjunction and BSML with a novel emptiness operator. We also study the expressive power of these logics—we show that the two extensions are expressively complete.
+
+- date: 2023-03-06 16:00
+  author: Marco Degano (joint work with Maria Aloni)
+  title: (Non-)specificity across languages
+  location: ILLC seminar room F1.15 in Science Park 107
+  abstract: >
+    **Abstract:** Indefinites are known to give rise to different scopal (specific vs non-specific) and epistemic (known vs unknown) uses. Farkas & Brasoveanu (2020) explained these specificity distinctions in terms of stability vs. variability in value assignments of the variable introduced by the indefinite. Typological research (Haspelmath 1997) showed that indefinites have different functional distributions with respect to these uses. In this work, we present a formal framework where Farkas & Brasoveanu (2020)’s ideas are rigorously formalized. We develop a two-sorted team semantics using tools from dependence logic (Väänänen 2007) and model these uses by means of dependence and non-dependence atoms. We apply the framework to explain typological variety of indefinites, their restricted distribution and licensing conditions, as well as some diachronic developments of indefinite forms. We also use the inclusion atom to capture the difference between epistemic and deontic modals. We conclude by offering a novel notion of negation, intensional negation. 
+
+- date: 2023-03-13 16:00
+  author: Aleksi Antilla
+  title: TBD
+  location: ILLC seminar room F1.15 in Science Park 107
+  abstract: >
+    

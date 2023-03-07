@@ -15,11 +15,11 @@ body{
 }
 
 .title-row{
-    margin-top: 10%;
+    margin-top:8%;
 }
 
 .description{
-    font-size: 110%;
+    font-size: 20px;
 }
 
 .person-link{
@@ -41,6 +41,7 @@ body{
 
 .title-row{
     margin-top: 8%;
+    margin-bottom: -2%;
 }
 
 .latest-row {

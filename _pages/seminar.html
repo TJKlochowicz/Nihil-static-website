@@ -8,9 +8,15 @@ layout: header
     </div>
 </div>
 
+<div class="row">
+    <div class="col-sm-12">
+    
+    <p class="description"> This page displays the upcoming and past meetings of the NihiL seminar. The meetings take place biweekly, usually on Tuesday at 16:00 in the ILLC seminar room F1.15 in Science Park 107 and online. If you would like to attend a particular session online or to be added to the mailing list please contact <a href="mailto:skrapbk@gmail.com">Søren Brinck Knudstorp</a>. The seminar meetings alternate with the meetings of <a href="https://formal-semantics.github.io/">New Trends in Formal Semantics</a> reading group.</p>
+    </div>
+  </div>
 
 
-<div class="row title-row">
+<div class="row">
     <div class="col">
         <h2>Upcoming Meetings</h2>
         <hr>
@@ -38,7 +44,7 @@ layout: header
 
 {%assign allSeminars = site.data.seminars | sort:"date" | reverse%}
 
-<div class="row title-row past-row">
+<div class="row past-row">
     <div class="col">
         <button class="btn past-btn" type="button" data-toggle="collapse" data-target="#collapseExample" aria-pressed = "false" aria-expanded="false" aria-controls="collapseExample">
             <h2> Past Meetings  <i class="fa-solid fa-chevron-right arrow"></i></h2> 
