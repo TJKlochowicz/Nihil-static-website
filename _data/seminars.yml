@@ -35,14 +35,16 @@
 
 - date: 2023-03-13 16:00
   author: Aleksi Antilla
-  title: TBD
-  location: ILLC seminar room F1.15 in Science Park 107
+  title: A remark on the negation in Bilateral State-based Modal Logic
+  location: ILLC seminar room F1.15 in Science Park 107 Zoom: [https://uva-live.zoom.us/j/87618965843](https://uva-live.zoom.us/j/87618965843)
   abstract: >
+    **Abstract:** The game-theoretical or so-called dual negation of independence-friendly logic and dependence logic does not correspond to any well-defined semantic operation: the class of models of a sentence does not determine the class of models of its dual negation, so the dual negations of two equivalent sentences need not be equivalent. Burgess showed (in the equivalent context of Henkin sentences) that this lack of determination is extreme in the sense that for any pair of sentences A and B of dependence logic which share no models, there is a sentence C such that A is equivalent to C and the dual negation of C is equivalent to B. So given only the class of models X of a sentence, all we know of the class of models Y of its negation is that Y is the class of models of some sentence of dependence logic, and that X and Y share no models. Bilateral State-based Modal Logic (BSML) is a modal logic employing team semantics developed to model natural language phenomena such as free choice inference. BSML makes use of a bilateral negation which is essentially the same notion as the dual negation. We show that Burgess’ result also holds for BSML.
 
 - date: 2023-03-21 16:00
   author: Reinhard Muskens
   title:  BSML and left-to-right interpretation of natural language
   location: ILLC seminar room F1.15 in Science Park 107
   abstract: > 
-    **Abstract:** > My talk will be on an application of BSML (or in fact of a variant) in natural language interpretation and my focus will be on the possibility to interpret natural language sentences "from left to right", or, more accurately, following the linguistic precedence order. Left-to-right interpretation seems key in understanding how semantics and pragmatics interact, as Stalnaker and Karttunen already saw in the 1970s.\
+    **Abstract:** My talk will be on an application of BSML (or in fact of a variant) in natural language interpretation and my focus will be on the possibility to interpret natural language sentences "from left to right", or, more accurately, following the linguistic precedence order. Left-to-right interpretation seems key in understanding how semantics and pragmatics interact, as Stalnaker and Karttunen already saw in the 1970s.\
+      
       Officially, the logic I use is classical type theory, but I'll show that the BSML ideas can be reproduced within a certain domain of that logic, the domain of functions from states to functions from truth-values to truth-values. The reason why these ideas help with modelling left-to-right interpretation has to do with the fact that bilateral negation and split disjunction each in their own way can be viewed as mechanisms that push essential information to the atomic level. Another mechanism, available in classical logic, that does this is Skolemisation. With the help of these a refutational tableau calculus for natural language can be set up that has the property that the order of the branches of its trees is closely aligned with the precedence order of elements in the sentence under interpretation. Semantics-pragmatics interaction will be modelled as the combination of interleaved processes of developing such a tree, abductively contradicting its open branches from left to right (taking context into consideration), and adding the contradicting information to context. The talk will mainly be concerned with the first of these aspects and the role of BSML in it.
