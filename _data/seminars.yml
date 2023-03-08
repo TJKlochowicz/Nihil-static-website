@@ -14,7 +14,7 @@
 # ATENTION! This file is very indentation sensitive. 
 # It is much easier to edit in a local editor (e.g. vs code)
 # If you are editing on github please be careful while copy-pasting the template.
-# If you want to ad a colon (:) to your text put it in quotation marks ":" to avoid errors. 
+# If you want to ad a colon (:) to your text put the whole input value in quotation marks "string" to avoid errors. 
 #
 # Seminars are automatically sorted by date.
 # ===================================================================
@@ -37,7 +37,7 @@
 - date: 2023-03-13 16:00
   author: Aleksi Antilla
   title: A remark on the negation in Bilateral State-based Modal Logic
-  location: ILLC seminar room F1.15 in Science Park 107 "Zoom:" [https://uva-live.zoom.us/j/87618965843](https://uva-live.zoom.us/j/87618965843)
+  location: "ILLC seminar room F1.15 in Science Park 107 Zoom: [https://uva-live.zoom.us/j/87618965843](https://uva-live.zoom.us/j/87618965843)"
   abstract: >
     **Abstract:** The game-theoretical or so-called dual negation of independence-friendly logic and dependence logic does not correspond to any well-defined semantic operation: the class of models of a sentence does not determine the class of models of its dual negation, so the dual negations of two equivalent sentences need not be equivalent. Burgess showed (in the equivalent context of Henkin sentences) that this lack of determination is extreme in the sense that for any pair of sentences A and B of dependence logic which share no models, there is a sentence C such that A is equivalent to C and the dual negation of C is equivalent to B. So given only the class of models X of a sentence, all we know of the class of models Y of its negation is that Y is the class of models of some sentence of dependence logic, and that X and Y share no models. Bilateral State-based Modal Logic (BSML) is a modal logic employing team semantics developed to model natural language phenomena such as free choice inference. BSML makes use of a bilateral negation which is essentially the same notion as the dual negation. We show that Burgess’ result also holds for BSML.
 
