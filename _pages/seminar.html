@@ -32,9 +32,9 @@ layout: header
     <div class="col">
         <h4> <b>{{sem.author}}</b></h4>
         <h4>{{sem.date | date: "%-d %B %Y %H:%M"}}</h4>
-        <h5>{{sem.location}}</h5>
+        <h5>{{sem.location | markdownify}}</h5>
         <hr>
-        <h4><em>{{sem.title}}</em></h4>
+        <h4><em>{{sem.title | markdownify}}</em></h4>
         <p>{{sem.abstract | markdownify}}</p>
     </div>
 </div>
