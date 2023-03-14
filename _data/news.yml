@@ -38,3 +38,13 @@
 
   url: https://projects.illc.uva.nl/lgc/seminar/2022/12/lira-session-jialiang-yan/
 
+- date: 2023-03-31
+  text: >
+    ### Maria Aloni will deliver the Annual Logic Lecture at the University Of Connecticut
+
+    **Title**: Nothing is Logical\
+
+    **Abstract**: People often reason contrary to the prescriptions of classical logic. In the talk I will discuss some cases of divergence between everyday and logical-mathematical reasoning and propose that they are a consequence of a tendency in human cognition to neglect models which verify sentences by virtue of an empty configuration [neglect-zero tendency, Aloni 2022]. I will then introduce a bilateral state-based modal logic (BSML) which formally represents the neglect-zero tendency and can be used to rigorously study its impact on reasoning and interpretation. After discussing some of the applications, I will compare BSML with related systems (truthmaker semantics, possibility semantics, and inquisitive semantics) via translations into Modal Information Logic [van Benthem 2019].
+
+  url: https://logic.uconn.edu/annual-logic-lecture/
+
