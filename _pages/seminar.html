@@ -35,10 +35,11 @@ layout: header
         <h5>{{sem.location | markdownify}}</h5>
         <hr>
         <h4><em>{{sem.title | markdownify}}</em></h4>
-        <p>{{sem.abstract | markdownify}}</p>
         {%if sem.url%}
         <a href={{sem.url}}>Slides</a>
         {%endif%}
+        <p>{{sem.abstract | markdownify}}</p>
+        
     </div>
 </div>
 {%endif%}
@@ -67,10 +68,10 @@ layout: header
             <h5>{{sem.location}}</h5>
             <hr>
             <h4><em>{{sem.title}}</em></h4>
-            <p>{{sem.abstract | markdownify}}</p>
             {%if sem.url%}
             <a href={{sem.url}}>Slides</a>
             {%endif%}
+            <p>{{sem.abstract | markdownify}}</p>
         </div>
     </div>
     {%endif%}
