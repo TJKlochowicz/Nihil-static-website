@@ -6,6 +6,7 @@
 #     author:
 #     title: Paper title
 #     location: ILLC seminar room F1.15 in Science Park 107
+#     url: 
 #     abstract: >
 #       **Markdown** text of the message
 #
@@ -31,6 +32,7 @@
   author: Marco Degano (joint work with Maria Aloni)
   title: (Non-)specificity across languages
   location: ILLC seminar room F1.15 in Science Park 107
+  url: https://osf.io/v4aen/?view_only=c1d31213ab804bb8a693d991b3aafb3a
   abstract: >
     **Abstract:** Indefinites are known to give rise to different scopal (specific vs non-specific) and epistemic (known vs unknown) uses. Farkas & Brasoveanu (2020) explained these specificity distinctions in terms of stability vs. variability in value assignments of the variable introduced by the indefinite. Typological research (Haspelmath 1997) showed that indefinites have different functional distributions with respect to these uses. In this work, we present a formal framework where Farkas & Brasoveanu (2020)’s ideas are rigorously formalized. We develop a two-sorted team semantics using tools from dependence logic (Väänänen 2007) and model these uses by means of dependence and non-dependence atoms. We apply the framework to explain typological variety of indefinites, their restricted distribution and licensing conditions, as well as some diachronic developments of indefinite forms. We also use the inclusion atom to capture the difference between epistemic and deontic modals. We conclude by offering a novel notion of negation, intensional negation. 
 
