@@ -36,7 +36,7 @@ layout: header
         <hr>
         <h4><em>{{sem.title | markdownify}}</em></h4>
         {%if sem.url%}
-        <a href={{sem.url}}>Slides</a>
+        <p><a href={{sem.url}}>Slides</a></p>
         {%endif%}
         <p>{{sem.abstract | markdownify}}</p>
         
@@ -69,7 +69,7 @@ layout: header
             <hr>
             <h4><em>{{sem.title}}</em></h4>
             {%if sem.url%}
-            <a href={{sem.url}}>Slides</a>
+            <p><a href={{sem.url}}>Slides</a></p>
             {%endif%}
             <p>{{sem.abstract | markdownify}}</p>
         </div>
