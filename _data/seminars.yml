@@ -6,7 +6,7 @@
 #     author:
 #     title: Paper title
 #     location: ILLC seminar room F1.15 in Science Park 107
-#     url: 
+#     url: assets\slides\bsml-lr.pdf
 #     abstract: >
 #       **Markdown** text of the message
 #
@@ -16,6 +16,8 @@
 # It is much easier to edit in a local editor (e.g. vs code)
 # If you are editing on github please be careful while copy-pasting the template.
 # If you want to ad a colon (:) to your text put the whole input value in quotation marks "string" to avoid errors. 
+#
+# If you want to add a pdf with slides put the file in assets\slides and add a relative path to the url field.
 #
 # Seminars are automatically sorted by date.
 # ===================================================================
@@ -47,6 +49,7 @@
   author: Reinhard Muskens
   title:  BSML and left-to-right interpretation of natural language
   location: ILLC seminar room F1.15 in Science Park 107
+  url: assets\slides\bsml-lr.pdf
   abstract: > 
     **Abstract:** My talk will be on an application of BSML (or in fact of a variant) in natural language interpretation and my focus will be on the possibility to interpret natural language sentences "from left to right", or, more accurately, following the linguistic precedence order. Left-to-right interpretation seems key in understanding how semantics and pragmatics interact, as Stalnaker and Karttunen already saw in the 1970s.\
     
