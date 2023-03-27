@@ -99,3 +99,10 @@
   img: assets/images/emptyset.png
   url: https://sites.google.com/site/fanyanghp/ 
   role: none
+
+- name: Reinhard  
+  lastname: Muskens
+  affiliation:  University of Amsterdam
+  img: assets/images/rmuskens.jpg
+  url: http://freevariable.nl/
+  role: none
