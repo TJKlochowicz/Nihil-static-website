@@ -86,6 +86,11 @@ body{
 
 .past-row{
     margin-bottom: -2%;
+    margin-top: -1%;
+    padding-left: 0%;
+}
+.past-btn{
+    padding-left: 0%; 
 }
 
 /* .btn:active{
