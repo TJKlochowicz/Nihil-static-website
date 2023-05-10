@@ -106,3 +106,10 @@
   img: assets/images/rmuskens.jpg
   url: http://freevariable.nl/
   role: none
+
+- name: Lorenzo 
+  lastname: Pinton 
+  affiliation:  Massachusetts Institute of Technology
+  img: assets/images/lpinton.jpg
+  url: https://linguistics.mit.edu/user/lpinton/
+  role: none
