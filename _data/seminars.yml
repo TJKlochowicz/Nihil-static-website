@@ -56,14 +56,14 @@
     Officially, the logic I use is classical type theory, but I'll show that the BSML ideas can be reproduced within a certain domain of that logic, the domain of functions from states to functions from truth-values to truth-values. The reason why these ideas help with modelling left-to-right interpretation has to do with the fact that bilateral negation and split disjunction each in their own way can be viewed as mechanisms that push essential information to the atomic level. Another mechanism, available in classical logic, that does this is Skolemisation. With the help of these a refutational tableau calculus for natural language can be set up that has the property that the order of the branches of its trees is closely aligned with the precedence order of elements in the sentence under interpretation. Semantics-pragmatics interaction will be modelled as the combination of interleaved processes of developing such a tree, abductively contradicting its open branches from left to right (taking context into consideration), and adding the contradicting information to context. The talk will mainly be concerned with the first of these aspects and the role of BSML in it.
 
 - date: 2023-04-04 16:00
-  author: Giorgio Sbardolini 
+  author: "Giorgio Sbardolini (Universität München)"
   title: Homogeneity and Rejection
   location: "ILLC seminar room F1.15 in Science Park 107"
   abstract: > 
     **Abstract:** I will discuss some consequences of the combination of Neglect Zero with a non-classical definition of rejection, which allows us to derive contradictory and contrary readings of negation as illocutionary effects. I will focus on three applications: an account of homogeneity inferences, an hypothesis about lexical simplicity, and an account of lexication patterns of inclusive and exclusive operators (words like even and only).
 
 - date: 2023-04-24 16:00
-  author: Sonia Ramotowska 
+  author: "Sonia Ramotowska (Heinrich Heine Universität)" 
   title: Diversity with universality
   location: "ILLC seminar room F1.15 in Science Park 107"
   abstract: > 
