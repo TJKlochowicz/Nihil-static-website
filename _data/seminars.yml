@@ -77,3 +77,17 @@
   location: "ILLC seminar room F1.15 in Science Park 107 Zoom: <https://uva-live.zoom.us/j/87618965843>"
   abstract: > 
     **Abstract:** According to a recent cognitively motivated theory of natural language quantification, so-called empty-set quantifiers are extraordinarily difficult to interpret because their verification algorithm involves one specific rule intended to handle empty-set situations. The rule relies on the explicit representation of objects in the restrictor set that are not in the scope set. This type of encoding is assumed to be cognitively costly because the cognitive system is tuned to encoding the presence of properties rather than their absence, a strategy viable for non-empty-set quantifiers but doomed to failure for empty-set quantifiers. In this talk, I give an overview of the proposal's theoretical merits as well as experimental results that support it and rule out a number of alternative accounts. The experimental results include data from the comprehension and verification of German simply and doubly quantified sentences as well as the verification of empty-set quantifiers in `außer’-(`besides’)-phrases. In addition, I provide an outlook covering potential future directions for empirical research and theoretical extensions.
+
+- date: 2023-06-19 16:00
+  author: "Tomasz Klochowicz"
+  title: "TBD"
+  location: "ILLC seminar room F1.15 in Science Park 107 Zoom: <https://uva-live.zoom.us/j/87618965843>"
+  abstract: > 
+    **Abstract:** TBD
+
+- date: 2023-06-27 16:00
+  author: "Søren Knudstorp"
+  title: "TBD"
+  location: "ILLC seminar room F1.15 in Science Park 107 Zoom: <https://uva-live.zoom.us/j/87618965843>"
+  abstract: > 
+    **Abstract:** TBD
