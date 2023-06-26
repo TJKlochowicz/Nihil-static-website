@@ -24,7 +24,7 @@
 
 
 - date: 2023-02-20 16:00
-  author: Aleksi Antilla
+  author: Aleksi Anttila
   title: An Axiomatization of Bilateral State-based Modal Logic
   location: ILLC seminar room F1.15 in Science Park 107
   url: assets\slides\aleksi-bsml-nihil.pdf
@@ -40,7 +40,7 @@
     **Abstract:** Indefinites are known to give rise to different scopal (specific vs non-specific) and epistemic (known vs unknown) uses. Farkas & Brasoveanu (2020) explained these specificity distinctions in terms of stability vs. variability in value assignments of the variable introduced by the indefinite. Typological research (Haspelmath 1997) showed that indefinites have different functional distributions with respect to these uses. In this work, we present a formal framework where Farkas & Brasoveanu (2020)’s ideas are rigorously formalized. We develop a two-sorted team semantics using tools from dependence logic (Väänänen 2007) and model these uses by means of dependence and non-dependence atoms. We apply the framework to explain typological variety of indefinites, their restricted distribution and licensing conditions, as well as some diachronic developments of indefinite forms. We also use the inclusion atom to capture the difference between epistemic and deontic modals. We conclude by offering a novel notion of negation, intensional negation. 
 
 - date: 2023-03-13 16:00
-  author: Aleksi Antilla
+  author: Aleksi Anttila
   title: A remark on the negation in Bilateral State-based Modal Logic
   location: "ILLC seminar room F1.15 in Science Park 107"
   url: assets\slides\aleksi_Remark_on_negation_Nihil.pdf
@@ -91,11 +91,13 @@
     We conducted an experiment to empirically test whether these intuitions are true. In the talk I will indicate how the collected data can allow to establish the source of these inferences. Moreover, I will compare the results to the predictions of the current theories of Free Choice extended with question semantics.
 
 - date: 2023-06-27 16:00
-  author: "Aleksi Antilla & Søren Knudstorp"
-  title: "TBD"
+  author: "Aleksi Anttila & Søren Knudstorp"
+  title: "BSML and Expressive Completeness"
   location: "ILLC seminar room F1.15 in Science Park 107 Zoom: <https://uva-live.zoom.us/j/87618965843>"
   abstract: > 
-    **Abstract:** TBD
+    **Abstract:** Within team semantics, a focal point of study has been that of expressive power (what properties can a given logic express). One such team logic is BSML, a modal team logic designed for modeling free choice inferences and related linguistic phenomena.
+
+    In recent work, Aloni et al. (2023) present two extensions of BSML, demonstrating their expressive completeness for all properties [invariant under bounded bisimulation] and all union-closed properties, respectively, and leave open the problem of characterizing the expressive power of BSML. Continuing this line of work, we solve this problem by showing that BSML is expressively complete for all convex, union-closed properties. This leads us to ponder a logic that is expressively complete for all convex properties simpliciter. We introduce a logic which accomplishes precisely that.
 
 - date: 2023-06-13 11:00
   author: "Jialiang Yan"
@@ -106,3 +108,10 @@
     
     To tackle these issues, we propose a framework that merges BSEL models—an epistemic variant of BSML—and a two-dimensional semantics for Epistemic Friendship Logic (Seligman et al., 2011, 2013). The resulting model bring the locality of epistemic might and a mechanism of perspective shifting together to model the perspective sensitivity. In addition, the knower(s) of an might-claim can be explicitly represented in the model. Through this point, we can more deeply distinguish between a believe-might sentence and a know-might sentence.
     This is a joint work with Maria Aloni and Fenrong Liu.
+
+- date: 2023-09-26 14:00
+  author: "Yanjing Wang & Zilu Wang "
+  title: "TBD"
+  location: "ILLC seminar room F1.15 in Science Park 107 Zoom: <https://uva-live.zoom.us/j/87618965843>"
+  abstract: > 
+    **Abstract:** TBD
