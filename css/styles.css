@@ -5,6 +5,22 @@ body{
     color: black;
 }
 
+#workshop{
+        background-image: url('bgblack.jpg');
+    
+        color: rgba(253, 243, 243, 0.938);
+}
+
+#workshop .description{
+    font-size: 22px;
+}
+
+#workshop .description a{
+    all: unset;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
 /* .navbar{
     font-size: 130%
 } */
