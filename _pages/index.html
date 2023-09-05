@@ -31,7 +31,7 @@ layout: header
 
   {%for news in latestNews%}
     <div class="col-sm-4 latnews">
-        <a href="https://projects.illc.uva.nl/nihil/news/"><h4>{{news.date  | date: "%-d %B %Y"}}</h4>
+        <a href="https://projects.illc.uva.nl/nihil/news"><h4>{{news.date  | date: "%-d %B %Y"}}</h4>
         <hr>
         <p>{{news.text | markdownify}}</p></a>
         {%if news.url%}
