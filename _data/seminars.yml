@@ -136,6 +136,7 @@
   author: "Karl Nygren"
   title: "Inquisitive logic with modal operators that quantify over alternatives"
   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
+  url: assets\slides\nygren slides nihil seminar 7 nov 2023.pdf
   abstract: > 
     **Abstract:** In propositional inquisitive logic, formulas are evaluated in terms of support at information states, and the maximal information states supporting a formula are the 'alternatives' for the formula. In the first part of the talk, I present an extension of propositional inquisitive logic with a modal operator that roughly expresses that each alternative for its argument formula is consistent with the available information. The resulting logic can be used to model some properties of deontic free-choice inferences, as well as question-directed ignorance. In the second part of the talk, I focus on how to axiomatize the logic by extending it with a version of the global/universal modality. I will also discuss how the technique used to prove completeness can be extended to other types of modal operators with semantics defined in terms of quantification over alternatives, in particular the `minimal cover' modality introduced by Booth (2022, Independent alternatives, Philosophical Studies, 179:1241–1273).
 
