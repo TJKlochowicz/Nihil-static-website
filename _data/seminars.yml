@@ -148,7 +148,7 @@
   abstract: > 
     **Abstract:** In traditional update semantics, there are two commonly employed notions of discourse consistency, both of which are defined in terms of the absurd state, represented by the empty set. A sentence is consistent iff an update with it does not alway results in the absurd state; a sentence is coherent iff updating with it can reach a fixed point that is not the absurd state. However, it has been noted that both notions fall short of capturing all intuitively contradictory sentences in the face of epistemic modal claims. In this talk, I present a novel solution to this puzzle by providing an  analysis of epistemic modals in commitment space semantics. Epistemic modals can have a `meta speech-act' effect on commitment space by delimiting possible developments of the discourse without altering the current common ground. This picture in turn enables a new conception of discourse inconsistency. A non-empty commitment space can still be deemed inconsistent if all possible developments of the current common ground have been ruled out. In addition, I will explore the prospect of providing an axiomatization of the current framework via a translation into possibility semantics.
 
-- date: 2023-12-12 16:00
+- date: 2023-12-15 16:00
   author: "Lorenzo Pinton (Massachusetts Institute of Technology)"
   title: "TBD"
   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
