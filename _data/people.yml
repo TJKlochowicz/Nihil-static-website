@@ -33,8 +33,8 @@
 - name: Aleksi 
   lastname: Anttila
   affiliation: University of Helsinki
-  img: assets/images/emptyset.png
-  url: https://researchportal.helsinki.fi/en/persons/aleksi-ilari-anttila
+  img: assets/images/aanttila.jpg
+  url:  https://aianttila.github.io
   role: main
 
 - name: Søren Brinck 
