@@ -113,3 +113,10 @@
   img: assets/images/lpinton.jpg
   url: https://linguistics.mit.edu/user/lpinton/
   role: none
+
+- name: Sonia
+  lastname: Ramotowska 
+  affiliation:  University of Amsterdam
+  img: assets/images/ramotowska.jpg
+  url: https://sites.google.com/view/soniaramotowska/home?pli=1.
+  role: main
