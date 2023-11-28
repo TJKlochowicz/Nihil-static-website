@@ -35,7 +35,7 @@
   affiliation: University of Helsinki
   img: assets/images/emptyset.png
   url: https://researchportal.helsinki.fi/en/persons/aleksi-ilari-anttila
-  role: none
+  role: main
 
 - name: Søren Brinck 
   lastname: Knudstorp
@@ -119,4 +119,11 @@
   affiliation:  University of Amsterdam
   img: assets/images/ramotowska.jpg
   url: https://sites.google.com/view/soniaramotowska/home?pli=1.
+  role: main
+
+- name: Woxuan
+  lastname: Zhou
+  affiliation:  University of Amsterdam
+  img: assets/images/wzhou.png
+  url:
   role: main
