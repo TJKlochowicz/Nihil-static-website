@@ -160,8 +160,11 @@
 
 - date: 2024-01-12 16:00
   author: "Angelica Hill (UMass Amherst)"
-  title: "TBD"
+  title: "Priming abstract modal representations: The case of causatives and modals"
   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
+  abstract: > 
+    **Abstract:** It’s debated whether periphrastic causatives contain a modal component (Ilič 2013, 2014; Hill 2023) or not (Copley & Harley 2015, Martin 2018). Any semantic theory must capture the fact that deontic modal interpretations are associated with causative constructions. This is best observed when we attempt to cancel obligation after a causative sentence, “Giulia made Giorgio go to the store, ??but he didn’t have to.” To account for this Hill (2023) provides a counterfactual analysis of causatives in which _made_ universally quantifies over possible situations, entailing necessity, which is also entailed by deontic modal expressions, such as _had to_. 
+    Assuming Hill (2023), we tested the hypothesis that strong causatives and deontic necessity modals in English share a necessity entailment using the psycholinguistic tool of semantic priming in a sentence recall task. Our results show that the utterance of _had to_ can indeed by primed by the utterance of _made_ suggesting that priming can target shared core meaning between two syntactically dissimilar constructions. Moreover our results provide support for semantic accounts which propose similar analyses for both periphrastic causatives and deontic modals. 
 
 - date: 2024-03-15 16:00
   author: "Richard Booth"
