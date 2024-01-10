@@ -125,3 +125,37 @@ body{
 .arrow{
     font-size: 60%;
 }
+
+.btn-day{
+    height: 45px;
+}
+
+
+@media only screen and (min-width: 550px)  {
+    .btn-day{
+        width: 150px;
+    
+    }
+}
+
+#collapseWE{
+    transition: width 0.35s ease;
+}
+#collapseWE.collapsing{
+    transition: width 0.35s ease;
+}
+
+#collapseTH{
+    transition: width 0.35s ease;
+}
+#collapseTH.collapsing{
+    transition: width 0.35s ease;
+}
+
+
+#collapseFR{
+    transition: width 0.35s ease;
+}
+#collapseFR.collapsing{
+    transition: width 0.35s ease;
+}
