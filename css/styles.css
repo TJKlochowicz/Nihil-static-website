@@ -131,12 +131,21 @@ body{
 }
 
 
+/* @media only screen and (max-width: 550px)  {
+    .day{
+        font-size: 15px!important;
+    }
+    
+} */
+
 @media only screen and (min-width: 550px)  {
     .btn-day{
         width: 150px;
-    
+        
     }
 }
+
+
 
 #collapseWE{
     transition: width 0.35s ease;

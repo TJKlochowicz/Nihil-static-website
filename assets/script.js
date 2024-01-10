@@ -24,3 +24,10 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 
+var x = window.matchMedia("(max-width: 700px)")
+if (x.matches) {
+  document.getElementById('WE').innerHTML = 'WED';
+  document.getElementById('TH').innerHTML = 'THU';
+  document.getElementById('FR').innerHTML = 'FRI';
+  }
+
