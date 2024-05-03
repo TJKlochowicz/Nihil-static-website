@@ -1,0 +1,54 @@
+---
+layout: header
+---
+
+<div class="row title-row">
+    <div class="col">
+        <h1>Experiments</h1>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12">
+    
+    <p class="description"> Here you will find the empirical work performed within and artound the Nihil project!</p>
+    </div>
+  </div>
+
+  {%assign allExp = site.data.experiments | sort:"date"|reverse%}
+  <div class="row">
+    <div class="col">
+        <ul>
+  {%for exp in allExp%}
+ <li>
+        <p class="description"><b>{{exp.name}}</b> by <i>{{exp.authors}}</i></p>
+
+        <p>
+        {%if exp.slides%}
+            <a href={{exp.slides}} target="_blank" rel="noopener noreferrer">Slides</a>
+        {%endif%}
+        {%if exp.paper%}
+        {%if exp.slides%}
+        |
+        {%endif%}
+
+            <a href={{exp.paper}} target="_blank" rel="noopener noreferrer">Paper</a>
+        {%endif%}
+        {%if exp.directory%}
+        {%if exp.slides or exp.paper%}
+        |
+        {%endif%}
+        <a href={{exp.directory}} target="_blank" rel="noopener noreferrer">Data and Analysis</a>
+        {%endif%}
+        </p>
+        
+        <p>{{exp.description | markdownify}}
+        {%if exp.more_url%}
+        <a href={{exp.more_url}} target="_blank" rel="noopener noreferrer">See more</a> </p>
+        {%endif%}
+        
+    </li>
+  {%endfor%}
+</ul>
+</div>
+</div>

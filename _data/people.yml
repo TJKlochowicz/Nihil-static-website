@@ -7,6 +7,7 @@
 #     affiliation:      
 #     img: assets/images/emptyset.png 
 #     url: Can be omitted
+#     role: none
 #      
 #===========
 # Please name the file with an initial and a surname: Tomasz Klochowicz -> tklochowicz.png
@@ -20,7 +21,7 @@
 # It is much easier to edit in a local editor (e.g. vs code)
 # If you are editing on github please be careful while copy-pasting the template.
 #
-# People are displayed from top to bottom of this file (not sorted).
+# People are displayed in an alphabetical order. However those with role 'main' are always above otthers
 # ===================================================================
 
 - name: Maria 
