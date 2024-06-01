@@ -33,7 +33,7 @@
 
 - name: Aleksi 
   lastname: Anttila
-  affiliation: University of Helsinki
+  affiliation: University of Amsterdam
   img: assets/images/aanttila.jpg
   url:  https://aianttila.github.io
   role: main
@@ -68,7 +68,7 @@
 
 - name: Jialiang  
   lastname: Yan
-  affiliation: University of Amsterdam and Tsinghua University
+  affiliation: Tsinghua University
   img: assets/images/jyan.jpg
   url: https://yanjialiang.com/ 
   role: none
@@ -89,7 +89,7 @@
 
 - name: Giorgio  
   lastname: Sbardolini
-  affiliation:  Munich Center for Mathematical Philosophy
+  affiliation:  University of Amsterdam
   img: assets/images/emptyset.png
   url: https://sites.google.com/view/giorgiosbardolini/home
   role: none
