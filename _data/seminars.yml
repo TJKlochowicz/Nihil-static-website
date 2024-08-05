@@ -182,3 +182,9 @@
   abstract: > 
     **Abstract:** The main topic of this talk is logic and semantic change. I will discuss episodes of semantic change that have to do with the meaning(s) of negation and show how to model them in Bilateral State-based Modal Logic. The discussion will connect with work I have done on lexicalizability (the NAND problem), with ongoing work on homogeneity and definite plurals, and with future work on Negative Polarity Items (the meaning of "any"). Along the way, I will argue that we can use logic to study linguistic fossils, that "not even" is the non-classical negation of "even", that "any" is a non-harmonious quantifier (in the sense of Dummett), and much more. 
   
+- date: 2024-08-15 11:00
+  author: "Yanjing Wang (Peking University)"
+  title: "Point-set Neighborhood Logic"
+  location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
+  abstract: > 
+    **Abstract:** In this paper, we propose Point-set Neighborhood Logic (PSNL) to reason about neighborhood structures. The bimodal language of PSNL is defined via a mutual induction of point-formulas and set-formulas. We show that this simple language is equally expressive as the language of Instantial Neighborhood Logic (INL) proposed by van Benthem et al. (2017). As the main results, we first give two complete proof systems, one in Hilbert-style and one in Gentzen sequent-style, each featuring two intertwined K-like systems. The proof of strong completeness of the Hilbert-style system is based on a direct canonical model construction without relying on a normal form. Based on the sequent calculus, we establish constructively the uniform interpolation property of PSNL, from which that of INL follows. (Joint work with Junhua Yu)
