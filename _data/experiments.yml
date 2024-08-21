@@ -29,18 +29,18 @@
   date: 2024-05-01
   authors: Sonia Ramotowska
   directory:
-  slides: slides.pdf
+  slides:
   paper:
   more_url: eeg
   description: >
-    This is the description of the EEG experiment! **We are looking for participants!** [Click here](eeg) to register.
+    **We are looking for participants!** [Click here](eeg) to register.
 
 - name: Free Choice Questions
   date: 2023-05-01
   authors: Tomasz Klochowicz
-  directory: osf.io
-  slides: slides.pdf
-  paper: paper.pdf
+  directory:
+  slides:
+  paper:
   more_url:
   description: >
-    This is the description of the FCQ experiment!
+    Presented at NELS 54.
