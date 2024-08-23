@@ -22,14 +22,6 @@
 # Seminars are automatically sorted by date.
 # ===================================================================
 
-- date: 2024-08-23 16:00
-  author: Aleksi Anttila
-  title: An Axiomatization of Bilateral State-based Modal Logic
-  location: ILLC seminar room F1.15 in Science Park 107
-  url: assets\slides\aleksi-bsml-nihil.pdf
-  abstract: >
-    **Abstract:** Bilateral State-based Modal Logic (BSML) is a modal logic employing team/state-based semantics which can be used to model free choice inference and other natural language phenomena. We introduce a natural deduction system for BSML as well as for two extensions: BSML with the inquisitive disjunction and BSML with a novel emptiness operator. We also study the expressive power of these logics—we show that the two extensions are expressively complete.
-
 
 - date: 2023-02-20 16:00
   author: Aleksi Anttila
