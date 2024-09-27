@@ -190,7 +190,7 @@
     **Abstract:** In this paper, we propose Point-set Neighborhood Logic (PSNL) to reason about neighborhood structures. The bimodal language of PSNL is defined via a mutual induction of point-formulas and set-formulas. We show that this simple language is equally expressive as the language of Instantial Neighborhood Logic (INL) proposed by van Benthem et al. (2017). As the main results, we first give two complete proof systems, one in Hilbert-style and one in Gentzen sequent-style, each featuring two intertwined K-like systems. The proof of strong completeness of the Hilbert-style system is based on a direct canonical model construction without relying on a normal form. Based on the sequent calculus, we establish constructively the uniform interpolation property of PSNL, from which that of INL follows. (Joint work with Junhua Yu)
 
 - date: 2024-10-01 16:00
-  author: Yitong Luo (Yale University) and Yixuan Yan (University of Connecticut)
+  author: Yixuan Yan (University of Connecticut) and Yitong Luo (Yale University)
   title: Do children know that PolQs are not AltQs? Evidence from Mandarin Chinese
   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
   url: 
