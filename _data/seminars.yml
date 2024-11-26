@@ -201,7 +201,7 @@
   author: Haoyu Wang (ILLC) 
   title: Knowing How to Understand (Generalized) Tensor Disjunction
   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
-  url: 
+  url: assets\slides\Haoyu_slides.pdf
   abstract: >
     **Abstract:** This talk is based on a joint work with Yanjing Wang and Yunsong Wang. We would like to propose an epistemic interpretation of the tensor disjunction in dependence logic inspired by its connection with the weak disjunction in Medvedev’s early work on intermediate logic based on the BHK-like problem semantics. We expose this rather surprising connection in the setting of propositional inquisitive logic with tensor disjunction discussed in the literature with a powerful epistemic language of knowing how. We give a complete axiomatization of the full logic of this language based on Fine's axiomatization of propositionally quantified S5 modal logic. In this way, we can obtain an intuitive epistemic understanding of the tensor operator. In the second part of the talk, I will discuss a set of generalized tensor operators with the parameters 𝑘 and 𝑛. We show that adding the generalized tensor operators does not increase the expressive power of our dynamic epistemic logic of know-how, the inquisitive logic, and the propositional dependence logic. However, we show that all the non-trivial generalized tensors are not uniformly definable in those languages with the original tensor operator. We also give the complete axiomatizations of extensions of our dynamic epistemic logic and the inquisitive logic with the general tensors.
     
