@@ -207,8 +207,16 @@
     
 - date: 2024-12-06 16:00
   author: Yale Weiss (Philosophy Program and Saul Kripke Center, The Graduate Center, CUNY) 
-  title: Constructivism: Views from Relevance Logic
+  title: Constructivism: Views from Relevance Logic (Joint talk with DIP)
   location: "ILLC seminar room F1.15 in Science Park 107"
   url: 
   abstract: >
-    **Abstract:** n this talk, I survey certain underappreciated connections between intuitionistic logic (and other broadly constructive logics) and relevance logic. I am particularly interested in a family of heterodox relevance logics whose operational semantical characterizations have an affinity to the informal BHK semantics. Various problems and results connected with these systems are examined, including the disjunction property, embeddings of constructive logics into them, and (un)decidability. On the more philosophical side, I discuss how constructive and relevance logics might inform, and motivate, one another.  (This is an updated version of a talk I gave at the PLEXUS Inaugural Conference in 2023 which takes account of several recent results obtained by various researchers.)
+    **Abstract:** In this talk, I survey certain underappreciated connections between intuitionistic logic (and other broadly constructive logics) and relevance logic. I am particularly interested in a family of heterodox relevance logics whose operational semantical characterizations have an affinity to the informal BHK semantics. Various problems and results connected with these systems are examined, including the disjunction property, embeddings of constructive logics into them, and (un)decidability. On the more philosophical side, I discuss how constructive and relevance logics might inform, and motivate, one another.  (This is an updated version of a talk I gave at the PLEXUS Inaugural Conference in 2023 which takes account of several recent results obtained by various researchers.)
+
+- date: 2025-02-06 16:00
+  author: Raffaella Bernardi (Trento)
+  title: The interplay between language and reasoning. (Joint talk with CLA and DIP)
+  location: "TBA"
+  url: 
+  abstract: >
+    **Abstract:** Large Language Models, and ChatGPT in particular, have recently grabbed the attention of the community and the media. Having reached high language proficiency, attention has been shifting toward its reasoning capabilities. It has been shown that ChatGPT can carry out some simple deductive reasoning steps when provided with a series of facts out of which it is tasked to draw some inferences. In this talk, I will argue for the need for models whose language generation is driven by an implicit reasoning process and a communication goal. To support my claim, I will present two papers recently produced within my group: one evaluates LLMs' formal reasoning skills and the other focuses on LLMs’ information-seeking strategies; to this end, we take syllogisms and the 20-Questions game as test beds. These tasks have been used extensively in cognitive sciences to study human reasoning skills, hence they provide us with a variety of experiments to inspect the language and reasoning interplay in LLMs.
