@@ -201,7 +201,14 @@
   author: Haoyu Wang (ILLC) 
   title: Knowing How to Understand (Generalized) Tensor Disjunction
   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
-  url: assets\slides\Haoyu_slides.pdf
+  url: "assets\slides\Haoyu_slides.pdf"
   abstract: >
     **Abstract:** This talk is based on a joint work with Yanjing Wang and Yunsong Wang. We would like to propose an epistemic interpretation of the tensor disjunction in dependence logic inspired by its connection with the weak disjunction in Medvedev’s early work on intermediate logic based on the BHK-like problem semantics. We expose this rather surprising connection in the setting of propositional inquisitive logic with tensor disjunction discussed in the literature with a powerful epistemic language of knowing how. We give a complete axiomatization of the full logic of this language based on Fine's axiomatization of propositionally quantified S5 modal logic. In this way, we can obtain an intuitive epistemic understanding of the tensor operator. In the second part of the talk, I will discuss a set of generalized tensor operators with the parameters 𝑘 and 𝑛. We show that adding the generalized tensor operators does not increase the expressive power of our dynamic epistemic logic of know-how, the inquisitive logic, and the propositional dependence logic. However, we show that all the non-trivial generalized tensors are not uniformly definable in those languages with the original tensor operator. We also give the complete axiomatizations of extensions of our dynamic epistemic logic and the inquisitive logic with the general tensors.
     
+- date: 2024-12-06 16:00
+  author: Yale Weiss (Philosophy Program and Saul Kripke Center, The Graduate Center, CUNY) 
+  title: Constructivism: Views from Relevance Logic
+  location: "ILLC seminar room F1.15 in Science Park 107"
+  url: 
+  abstract: >
+    **Abstract:** n this talk, I survey certain underappreciated connections between intuitionistic logic (and other broadly constructive logics) and relevance logic. I am particularly interested in a family of heterodox relevance logics whose operational semantical characterizations have an affinity to the informal BHK semantics. Various problems and results connected with these systems are examined, including the disjunction property, embeddings of constructive logics into them, and (un)decidability. On the more philosophical side, I discuss how constructive and relevance logics might inform, and motivate, one another.  (This is an updated version of a talk I gave at the PLEXUS Inaugural Conference in 2023 which takes account of several recent results obtained by various researchers.)
