@@ -209,7 +209,7 @@
   author: "Yale Weiss (Philosophy Program and Saul Kripke Center, The Graduate Center, CUNY)"
   title: "Constructivism: Views from Relevance Logic (Joint talk with DIP)"
   location: "ILLC seminar room F1.15 in Science Park 107"
-  url: 
+  url: "assets\slides\Weiss.pdf"
   abstract: >
     **Abstract:** In this talk, I survey certain underappreciated connections between intuitionistic logic (and other broadly constructive logics) and relevance logic. I am particularly interested in a family of heterodox relevance logics whose operational semantical characterizations have an affinity to the informal BHK semantics. Various problems and results connected with these systems are examined, including the disjunction property, embeddings of constructive logics into them, and (un)decidability. On the more philosophical side, I discuss how constructive and relevance logics might inform, and motivate, one another.  (This is an updated version of a talk I gave at the PLEXUS Inaugural Conference in 2023 which takes account of several recent results obtained by various researchers.)
 
