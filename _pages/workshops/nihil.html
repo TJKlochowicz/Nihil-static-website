@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nihil</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- Custom styles for this template -->
+    <link href="../css/styles.css" rel="stylesheet">
+    <!-- Fonts -->
+    <script src="https://kit.fontawesome.com/522e9f6110.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/fonts.css">
+    <!-- Favicon -->
+    <!-- {%assign favicon = "assets/images/favicon.jpg" %} -->
+    <link rel="icon" type="image/x-icon" href="https://projects.illc.uva.nl/nihil/assets/images/favicon.jpg">
+</head>
+<body id="workshop">
+  <nav class="navbar navbar-expand-lg navbar-dark sticky-top bg-dark" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="https://tjklochowicz.github.io/Nihil-static-website/">&#x2205; NihiL </a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        &#9776; Menu
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav mr-auto">
+            <!-- <li class="nav-item">
+                <a class="nav-link" href="{{site.baseurl}}"> Nihil</a>
+              </li> -->
+          <li class="nav-item">
+            <a class="nav-link" href="news">News</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="publications">Results</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="seminar">Seminar</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="experiments" id="navbarDropdown"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Workshops
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="nihil">Nihil workshop</a>
+              <a class="dropdown-item" href="meets-ai">Nihil meets AI</a>
+            </div></li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="experiments" id="navbarDropdown"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Experiments
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="experiments">All Experiments</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="eeg">the EEG Experiment</a>
+            </div>
+          <li class="nav-item">
+            <a class="nav-link" href="people">People</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+    <div class="row title-row">
+        <div class="col">
+            <h1>The NihiL Workshop</h1>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-sm-12">
+          <h3> When & Where </h3>
+        
+        <p class="description">  <b>31 January - 2 February 2024</b> </p> 
+        <p class="description"> Room 0.01, <a href="https://www.google.com/maps/place/Bushuis+-+Oost-Indisch+Huis/@52.3708333,4.8980556,17z/data=!3m1!4b1!4m6!3m5!1s0x47c609bf26a5d7a7:0xbc2cc49beec099ae!8m2!3d52.3708333!4d4.8980556!16s%2Fm%2F05m_640?entry=ttu">Bushuis</a>, Kloveniersburgwal 48, Amsterdam</p>
+        <p class="description"> Zoom link: <a href="https://uva-live.zoom.us/j/87618965843">https://uva-live.zoom.us/j/87618965843</a></p>
+        <p class="description"> The workshop dinner will be held at <a href="https://www.indrapura.nl/"> Indrapura </a> </p>
+      
+        <hr color = 'white'>
+        <h3> Description </h3>       
+        <p class="description"> The goal of the workshop is to bring together linguists, philosophers, logicians, and cognitive scientists who share an interest in the interfaces between (non-classical) logic, language and cognition. </p>
+        <hr color = 'white'>
+        <h3> Registration </h3>
+        <p class="description" id="schedule">Registration is not required, but to ensure a smooth organization of the workshop, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdzCoXc5gkHzcyU2oS12tp4CUS36e1WUdep2r2Pf-9kMDmAIA/viewform?embedded=true"> register here!</a> If you plan to attend online, please register to receive the zoom link.</p>
+      </div>
+    </div>
+
+    <div class="row" style="margin-bottom: 0%; margin-top: 0%;" >
+      <div class="col-sm-12">
+      
+        <h3> <b>Workshop schedule:</b> </h3>
+    </div>
+  </div>
+
+<div id="myGroup">
+  <div class="row justify-content-center" style="margin-bottom: 0%; margin-top: 0%;">
+  <div class="col col-md-10">
+    <a  class="btn btn-light btn-day" href="#schedule" type="button" data-toggle="collapse" data-target="#collapseWE" aria-pressed = "true" aria-expanded="true" aria-controls="collapseWE">
+      <p id ="WE" class="description day"> Wednesday</p> 
+    </a>
+    <a class="btn btn-light  btn-day" href="#schedule" type="button" data-toggle="collapse" data-target="#collapseTH" aria-pressed = "false" aria-expanded="false" aria-controls="collapseTH">
+      <p id ="TH" class="description day"> Thursday</p> 
+    </a>
+      <a class="btn btn-light btn-day" href="#schedule" type="button" data-toggle="collapse" data-target="#collapseFR" aria-pressed = "false" aria-expanded="false" aria-controls="collapseFR">
+        <p id ="FR" class="description day"> Friday</p> 
+      </a>
+      <hr>
+  </div>
+</div>
+
+
+<div class="accordion-group" id="collapseM">
+<div class="collapse show" id="collapseWE" data-parent="#myGroup">
+  <div class="row justify-content-center" style="margin-top: 0%;" >
+      
+    <div class="col-md-10">
+      <h3>Wednesday 31.01.2024</h3>
+  <table class="table table-dark">
+    <tbody>
+      <tr class = "break-tr">
+        <td scope="row" class="">10.00-10.30 </td>
+        <td>Welcome and coffee</td>
+      </tr>
+      <tr class="sec-tr">
+        <th scope="row"><b>Session 1</b></th>
+        <td>Chair: Maria Aloni</td>
+
+      </tr>
+      <tr class="talk-tr">
+        <th scope="row">10.30-11.30</th>
+        <td><b>Andreea Nicolae </b> (ZAS Berlin) <br> <i>Varieties of disjunctions</i></td>
+      </tr>
+      <tr class="talk-tr">
+        <th scope="row">11.40-12.40 </th>
+        <td> <b>Yasutada Sudo </b> (UCL) <br> <i> Empty restrictors are neglected for redundancy avoidance </i></td>
+      </tr>
+      
+      <tr class = "break-tr">
+        <th scope="row">12.45</th>
+        <td>Lunch break</td>
+
+      </tr>
+      <tr>
+      <th scope="row"><b>Session 2</b></th>
+      <td>Chair: Tomasz Klochowicz</td>
+    </tr>
+    <tr class="talk-tr">
+      <th scope="row">14.00-15.30 </th>
+      <td><b>Marco Degano </b> & <b>Sonia Ramotowska </b> <br> <i> Ignorance and distributive inferences of disjunction </i></td>
+    </tr>
+    <tr class="talk-tr">
+      <th scope="row">15.45-17.15 </th>
+      <td><b>Oliver Bott</b> (Bielefeld) & <b>Fabian Schlotterbeck</b> (Tübingen) <br> <i>Variation in the processing of zero-models?</i></td>
+    </tr>
+    <tr>
+      <th scope="row"><b>Discussion</b></th>
+      <td>Chair: Sonia Ramotowska</td>
+    </tr>
+    <tr class="talk-tr">
+      <th scope="row">17.30-18.00 </th>
+      <td>Experimenting with Zero-models </td>
+    </tr>
+
+    <tr class="break-tr">
+      <th scope="row">18.30 </th>
+      <td>Workshop dinner at <a href="https://www.indrapura.nl/"> Indrapura </a> </td>
+
+    </tr>
+    </tbody>
+  </table>
+</div> 
+</div>
+</div>
+
+
+<div class="collapse" id="collapseTH" data-parent="#myGroup">
+  <div class="row justify-content-center" style="margin-top: 0%;">
+      
+    <div class="col-md-10" >
+  <h3>Thursday 01.02.2024</h3>
+<table class="table table-dark">
+<tbody>
+  <tr>
+    <th scope="row">Session 1</th>
+    <td>Chair: Sonia Ramotowska</td>
+  </tr>
+  <tr class="talk-tr">
+    <th scope="row">09.30-10.30 </th>
+    <td><b>Bart Geurts</b> (Nijmegen) <br> <i>The logic of common ground </i></td>
+
+  </tr>
+  <tr class="talk-tr">
+    <th scope="row">10.40-11.40 </th>
+    <td><b>Salvador Mascarenhas</b> (ENS Paris) <br> <i>Questions in language and thought</i></td>
+
+  </tr>
+  <tr class="talk-tr">
+    <th scope="row">11.50-12.50 </th>
+    <td><b>Tomasz Klochowicz </b> <br> <i><a href="assets/slides/nihil_klochowicz.pdf">Free Choice Questions<a></i></td>
+  </tr>
+  <tr class="break-tr">
+    <th scope="row">12.50</th>
+    <td>Lunch break</td>
+  </tr>
+  <tr>
+  <th scope="row"><b>Session 2</b></th>
+  <td>Chair: Aleksi Anttila</td>
+</tr>
+<tr class="talk-tr">
+  <th scope="row">14.00-15.00 </th>
+  <td><b>Søren Brinck Knudstorp</b> <br> <i>The Decidable and the Undecidable. A Survey of Recent Results</i> </td>
+</tr>
+<tr class="talk-tr">
+  <th scope="row">15.10-16.10 </th>
+  <td> <b>Hannes Leitgeb </b> (Münich)<br> <i>The Logic of Theoretical Reasons. An Axiomatic Account</i></td>
+</tr>
+<tr class="break-tr">
+  <th scope="row"><b>16.10</b></th>
+  <td>Break</td>
+
+</tr>
+<tr>
+  <th scope="row">17.00-19.00 </th>
+  <td> <a href="https://projects.illc.uva.nl/inquisitivesemantics/workshops/2023-groenendijk-memorial.html">Jeroen Groenendijk Memorial</a> </td>
+</tr>
+</tbody>
+</table>
+</div> 
+</div>
+</div>
+
+
+
+<div class="collapse" id="collapseFR" data-parent="#myGroup">
+
+  <div class="row justify-content-center" style="margin-top: 0%;">
+      
+    <div class="col-md-10" >
+    <h3>Friday 02.02.2024</h3>
+  <table class="table table-dark">
+  <tbody>
+    <tr>
+      <th scope="row"><b>Session 1</b></th>
+      <td>Chair: Søren Brinck Knudstorp</td>
+    </tr>
+    <tr class="talk-tr">
+      <th scope="row">09.30-10.30 </th>
+      <td><b>Marianna Girlando</b> (ILLC) <br> <i><a href="assets/slides/nihil_girlando.pdf">Beyond sequent calculus: proof systems for conditional logics<a></i> </td>
+    </tr>
+    <tr class="talk-tr">
+      <th scope="row">10.40-11.40 </th>
+      <td><b>Aleksi Anttila</b> <br> <i>Bilateral State-based Modal Logic: expressive power and axiomatizations</i></td>
+    </tr>
+    <tr class="talk-tr">
+      <th scope="row">11.50-12.50 </th>
+      <td><b>Fan Yang</b> (Utrecht) <br> <i><a href = "assets/slides/nihil_fan.pdf">Team-based logics around BSML<a></i></td>
+    </tr>
+    <tr class="break-tr">
+      <th scope="row">12.50</th>
+      <td>Lunch break</td>
+  
+    </tr>
+    <th scope="row"><b>Session 2</b></th>
+    <td>Chair: Marco Degano</td>
+  </tr>
+  <tr class="talk-tr">
+    <th scope="row">14.00-15.00 </th>
+    <td><b>Jialiang Yan</b> (Tsinghua) <br> <i>Reasoning on Desire</i> </td>
+  </tr>
+  <tr class="talk-tr">
+    <th scope="row">15.10-16.10 </th>
+    <td> <b>Larry Moss</b> (Indiana) <br> <i>Semantic Foundations of Polarity Tagging</i> </td>
+  </tr>
+  <tr>
+    <th scope="row"><b>Discussion</b></th>
+    <td>Chair: Maria Aloni</td>
+  </tr>
+  <tr class="talk-tr">
+    <th scope="row">16.30-17.00 </th>
+    <td>Final discussion </td>
+  </tr>
+  </tbody>
+  </table>
+  </div> 
+  </div> 
+  </div>
+</div>
+</div>
+
+<div class="row"  style="margin-bottom:0%;margin-top:0%">
+  <div class="col-sm-12">  
+<p  class="description"> You will find the poster of the event <a href="https://projects.illc.uva.nl/nihil/assets/pdfs/poster.pdf" target="_blank" rel="noopener noreferrer">here</a>. </p>
+    
+  </div>
+</div>
+
+
+<!-- 
+
+    <div class="row" style="margin-top:0%;">
+      <div class="col-md-6">
+        <p class="description"> <b>Invited speakers</b>: 
+          <ul> <li class="description">Oliver Bott (Bielefeld) </li> 
+            <li class="description">Bart Geurts (Nijmegen) </li> 
+            <li class="description">Marianna Girlando (ILLC) </li> 
+              <li class="description">Hannes Leitgeb (Munich) </li> 
+              <li class="description">Salvador Mascarenhas (ENS Paris) </li>  
+              <li class="description">Andreea Nicolai (ZAS Berlin) </li> 
+              <li class="description">Greg Restall (St. Andrews) [TBC] </li> 
+              <li class="description">Fabian Schlotterbeck (Tubingen) </li> 
+              <li class="description">Yasu Sudo (UCL) </li> 
+              <li class="description">Jialiang Yan (Tsinghua) </li>  
+              <li class="description">Fan Yang (Utrecht).</li></ul></p>
+        
+      </div>
+        <div class="col-sm-6">
+          <p class="description"> <b>Local speakers</b>: 
+            <ul> <li class="description">Aleksi Anttila </li> 
+              <li class="description">Marco Degano </li>
+              <li class="description">Søren Brinck Knudstorp </li> 
+              <li class="description">Tomasz Klochowicz </li>
+              <li class="description">Sonia Ramotowska.</li></ul></p>
+        </div> </div> -->
+     <div class="row"  style="margin-top:3%">
+          <div class="col-sm-12">
+            <h3> Jeroen Groenendijk Memorial  </h3>   
+        <p  class="description"> On Thursday 1 February from 17.00-19.00 there will be an event commemorating Jeroen Groenendijk, who suddenly passed away on the 17th of October 2023.
+            Jeroen has made groundbreaking contributions to formal semantics, including inspiring some of the core ideas behind the Nihil project. More information on this event will be posted    <a href="https://projects.illc.uva.nl/inquisitivesemantics/workshops/2023-groenendijk-memorial.html">here</a></p>.
+            <hr color="white">
+            <h3> Contact  </h3>  
+            <p class="description"> For more information please contact  <a href="mailto:M.D.Aloni@uva.nl">Maria Aloni.</a></p>
+            
+          </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-sm-12">
+        <h3 style="text-align: center;"> Sponsors  </h3>   
+            <div style="text-align: center;"><img src="../assets/images/nwo_logo.jpg" style="height: 150px;width: auto;padding: 10px 50px;"> <img src="../assets/images/knaw_logo.png" style="height: 150px;width: auto;padding: 10px 10px;"></div>   
+      </div>
+</div>
+
+  <footer>
+    <div class="row">
+    
+        <div class="col">
+          <p>Credits: Tomasz Klochowicz 2023</p>
+        </div>
+      </div>
+ </footer>
+       
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="../assets/script.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+<!-- 
+<div class="row justify-content-center" style="margin-top: 0%;">
+      
+  <div class="col-md-10" >
+    <h3>Wednesday 31.01.2024</h3>
+<table class="table table-dark">
+  <tbody>
+    <tr>
+      <th scope="row">10.00-10.30 </th>
+      <td>Welcome and coffee</td>
+    </tr>
+    <tr>
+      <th scope="row"><b>Session 1</b></th>
+      <td>Chair: Maria Aloni</td>
+
+    </tr>
+    <tr>
+      <th scope="row">10.30-11.30 </th>
+      <td>Bart Geurts (Nijmegen)</td>
+
+    </tr>
+    <tr>
+      <th scope="row">10.40-12.40 </th>
+      <td>Salvador Mascarenhas (ENS Paris)</td>
+
+    </tr>
+    <tr>
+      <th scope="row">12.40</th>
+      <td>Lunch break</td>
+
+    </tr>
+    <tr>
+    <th scope="row"><b>Session 2</b></th>
+    <td>Chair: Tomasz Klochowicz</td>
+  </tr>
+  <tr>
+    <th scope="row">14.00-15.30 </th>
+    <td>Sonia Ramotowska & Marco Degano</td>
+
+  </tr>
+  <tr>
+    <th scope="row">16.00-17.30 </th>
+    <td>Oliver Bott (Bielefeld) & Fabian Schlotterbeck (Tübingen)</td>
+
+  </tr>
+  <tr>
+    <th scope="row"><b>Discussion</b></th>
+    <td>Chair: Sonia Ramotowska</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <th scope="row">17.30-18.00 </th>
+    <td>Experimenting with Zero-models </td>
+
+  </tr>
+
+  <tr>
+    <th scope="row">18.30 </th>
+    <td>Workshop dinner </td>
+
+  </tr>
+  </tbody>
+</table>
+</div> 
+</div>
+
+
+<div class="row justify-content-center">
+  
+  <div class="col-md-10" >
+<h3>Thursday 01.02.2024</h3>
+<table class="table table-dark">
+<tbody>
+<tr>
+  <th scope="row">Session 1</th>
+  <td>Chair: Sonia Ramotowska</td>
+</tr>
+<tr>
+  <th scope="row">9.30-10.30</th>
+  <td>Andreea Nicolai (ZAS Berlin)</td>
+</tr>
+<tr>
+  <th scope="row">10.40-11.40 </th>
+  <td> Yasu Sudo (UCL)</td>
+</tr>
+<tr>
+  <th scope="row">11.50-12.50 </th>
+  <td>Tomasz Klochowicz</td>
+</tr>
+<tr>
+  <th scope="row">12.50</th>
+  <td>Lunch break</td>
+</tr>
+<tr>
+<th scope="row"><b>Session 2</b></th>
+<td>Chair: Aleksi Anttila</td>
+</tr>
+<tr>
+<th scope="row">14.00-15.00 </th>
+<td>Søren Brinck Knudstorp</td>
+</tr>
+<tr>
+<th scope="row">15.10-16.10 </th>
+<td> Hannes Leitgeb (Münich)</td>
+</tr>
+<tr>
+<th scope="row"><b>16.10</b></th>
+<td>Break</td>
+
+</tr>
+<tr>
+<th scope="row">17.00-19.00 </th>
+<td>  <a href="https://projects.illc.uva.nl/inquisitivesemantics/workshops/2023-groenendijk-memorial.html">Jeroen Groenendijk Memorial</a> </td>
+</tr>
+</tbody>
+</table>
+</div> 
+</div>
+
+
+<div class="row justify-content-center">
+  
+<div class="col-md-10" >
+<h3>Friday 02.02.2024</h3>
+<table class="table table-dark">
+<tbody>
+<tr>
+<th scope="row"><b>Session 1</b></th>
+<td>Chair: Søren Brinck Knudstorp</td>
+</tr>
+<tr>
+<th scope="row">09.30-10.30 </th>
+<td>Marianna Girlando (ILLC)</td>
+</tr>
+<tr>
+<th scope="row">10.40-11.40 </th>
+<td>Aleksi Anttila</td>
+</tr>
+<tr>
+<th scope="row">11.50-12.50 </th>
+<td>Fan Yang (Utrecht)</td>
+</tr>
+<tr>
+<th scope="row">12.50</th>
+<td>Lunch break</td>
+
+</tr>
+<th scope="row"><b>Session 2</b></th>
+<td>Chair: Marco Degano</td>
+</tr>
+<tr>
+<th scope="row">14.00-15.00 </th>
+<td>Jialiang Yan (Tsinghua)</td>
+</tr>
+<tr>
+<th scope="row">15.10-16.10 </th>
+<td> Greg Restall (St. Andrews) [TBC] </td>
+</tr>
+<tr>
+<th scope="row"><b>Discussion</b></th>
+<td>Chair: Maria Aloni</td>
+</tr>
+<tr>
+<th scope="row">16.30-17.00 </th>
+<td>Final discussion </td>
+</tr>
+</tbody>
+</table>
+</div> 
+</div>  -->
