@@ -215,11 +215,11 @@
 
 - date: 2025-01-31 16:00
   author: "Matilda Häggblom (University of Helsinki)"
-  title: "TBA"
+  title: "Inclusion and exclusion in team semantics"
   location: "TBA"
   url: 
   abstract: >
-    **Abstract:** TBA
+    **Abstract:** We consider inclusion and exclusion atoms in team semantics, their individual implication problems, and their respective extensions of propositional team-based logic. The complete systems for exclusion atoms (Casanova & Vidal 1983, Häggblom 2024) depend on whether repetitions of variables are allowed, highlighting the importance of carefully considering such syntactical restrictions. The situation is similar for inclusion atoms (Mitchell 1983, Casanova et al. 1984), where we also present an alternative completeness proof that shows completeness not only in the first-order setting, but also in the propositional setting. We then relax the syntax of propositional inclusion atoms further by allowing boolean constants and show that no finite axiomatization can exist.
 
 - date: 2025-02-06 16:30
   author: "Raffaella Bernardi (Trento)"
