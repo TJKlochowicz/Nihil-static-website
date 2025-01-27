@@ -224,7 +224,15 @@
 - date: 2025-02-06 16:30
   author: "Raffaella Bernardi (Trento)"
   title: "The interplay between language and reasoning. (Joint talk with CLA and DIP)"
-  location: "TBA"
+  location: "LAB42, Room L0.06"
   url: 
   abstract: >
     **Abstract:** Large Language Models, and ChatGPT in particular, have recently grabbed the attention of the community and the media. Having reached high language proficiency, attention has been shifting toward its reasoning capabilities. It has been shown that ChatGPT can carry out some simple deductive reasoning steps when provided with a series of facts out of which it is tasked to draw some inferences. In this talk, I will argue for the need for models whose language generation is driven by an implicit reasoning process and a communication goal. To support my claim, I will present two papers recently produced within my group: one evaluates LLMs' formal reasoning skills and the other focuses on LLMs’ information-seeking strategies; to this end, we take syllogisms and the 20-Questions game as test beds. These tasks have been used extensively in cognitive sciences to study human reasoning skills, hence they provide us with a variety of experiments to inspect the language and reasoning interplay in LLMs.
+
+- date: 2025-02-07 11:00
+    author: "Jakub Szymanik (Trento)"
+    title: "The Shifting Sands of Meaning: How Quantifier Interpretation Varies. (Joint talk with DIP)"
+    location: "LAB42, Room L0.06"
+    url: 
+    abstract: >
+      **Abstract:** Traditional logical approaches to semantics, while precise, often fail to capture the dynamic and context-dependent nature of human language. This is particularly evident in the interpretation of quantifiers, where individual variation and contextual influences abound. This talk presents a novel probabilistic model of generalized quantifiers that accounts for this variability. By analyzing experimental data, we demonstrate that the 'true meaning' of quantifiers—revealed through probabilistic distributions rather than fixed truth conditions—is far more nuanced than previously acknowledged. Our findings have implications for some debated semantic puzzles, such as the "most" vs. "more than half" puzzle. More broadly, the model may be useful as a psycholinguistic tool, e.g., for studying quantifier processing in neurotypical individuals versus individuals with selective deficits in language abilities.
