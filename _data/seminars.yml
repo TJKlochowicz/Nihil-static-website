@@ -232,7 +232,7 @@
 - date: 2025-02-07 11:00
   author: "Jakub Szymanik (Trento)"
   title: "The Shifting Sands of Meaning: How Quantifier Interpretation Varies. (Joint talk with DIP)"
-  location: ""ILLC seminar room F1.15 in Science Park 107;"
+  location: "ILLC seminar room F1.15 in Science Park 107;"
   url: 
   abstract: >
     **Abstract:** Traditional logical approaches to semantics, while precise, often fail to capture the dynamic and context-dependent nature of human language. This is particularly evident in the interpretation of quantifiers, where individual variation and contextual influences abound. This talk presents a novel probabilistic model of generalized quantifiers that accounts for this variability. By analyzing experimental data, we demonstrate that the 'true meaning' of quantifiers—revealed through probabilistic distributions rather than fixed truth conditions—is far more nuanced than previously acknowledged. Our findings have implications for some debated semantic puzzles, such as the "most" vs. "more than half" puzzle. More broadly, the model may be useful as a psycholinguistic tool, e.g., for studying quantifier processing in neurotypical individuals versus individuals with selective deficits in language abilities.
