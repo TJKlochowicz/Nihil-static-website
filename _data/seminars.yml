@@ -201,7 +201,7 @@
   author: "Haoyu Wang (ILLC)"
   title: "Knowing How to Understand (Generalized) Tensor Disjunction"
   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
-  url: assets\slides\Haoyu_slides.pdf
+  URL: "assets\slides\Haoyu_slides.pdf"
   abstract: >
     **Abstract:** This talk is based on a joint work with Yanjing Wang and Yunsong Wang. We would like to propose an epistemic interpretation of the tensor disjunction in dependence logic inspired by its connection with the weak disjunction in Medvedev’s early work on intermediate logic based on the BHK-like problem semantics. We expose this rather surprising connection in the setting of propositional inquisitive logic with tensor disjunction discussed in the literature with a powerful epistemic language of knowing how. We give a complete axiomatization of the full logic of this language based on Fine's axiomatization of propositionally quantified S5 modal logic. In this way, we can obtain an intuitive epistemic understanding of the tensor operator. In the second part of the talk, I will discuss a set of generalized tensor operators with the parameters 𝑘 and 𝑛. We show that adding the generalized tensor operators does not increase the expressive power of our dynamic epistemic logic of know-how, the inquisitive logic, and the propositional dependence logic. However, we show that all the non-trivial generalized tensors are not uniformly definable in those languages with the original tensor operator. We also give the complete axiomatizations of extensions of our dynamic epistemic logic and the inquisitive logic with the general tensors.
     
@@ -209,7 +209,7 @@
   author: "Yale Weiss (Philosophy Program and Saul Kripke Center, The Graduate Center, CUNY)"
   title: "Constructivism: Views from Relevance Logic (Joint talk with DIP)"
   location: "ILLC seminar room F1.15 in Science Park 107"
-  url: assets\slides\Weiss.pdf
+  URL: "assets\slides\Weiss.pdf"
   abstract: >
     **Abstract:** In this talk, I survey certain underappreciated connections between intuitionistic logic (and other broadly constructive logics) and relevance logic. I am particularly interested in a family of heterodox relevance logics whose operational semantical characterizations have an affinity to the informal BHK semantics. Various problems and results connected with these systems are examined, including the disjunction property, embeddings of constructive logics into them, and (un)decidability. On the more philosophical side, I discuss how constructive and relevance logics might inform, and motivate, one another.  (This is an updated version of a talk I gave at the PLEXUS Inaugural Conference in 2023 which takes account of several recent results obtained by various researchers.)
 
@@ -217,7 +217,7 @@
   author: "Matilda Häggblom (University of Helsinki)"
   title: "Inclusion and exclusion in team semantics"
   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
-  url: assets\slides\Matilda_slides.pdf
+  URL: "assets\slides\Matilda_slides.pdf"
   abstract: >
     **Abstract:** We consider inclusion and exclusion atoms in team semantics, their individual implication problems, and their respective extensions of propositional team-based logic. The complete systems for exclusion atoms (Casanova & Vidal 1983, Häggblom 2024) depend on whether repetitions of variables are allowed, highlighting the importance of carefully considering such syntactical restrictions. The situation is similar for inclusion atoms (Mitchell 1983, Casanova et al. 1984), where we also present an alternative completeness proof that shows completeness not only in the first-order setting, but also in the propositional setting. We then relax the syntax of propositional inclusion atoms further by allowing boolean constants and show that no finite axiomatization can exist.
 
@@ -232,7 +232,7 @@
 - date: 2025-02-07 11:00
   author: "Jakub Szymanik (Trento)"
   title: "The Shifting Sands of Meaning: How Quantifier Interpretation Varies. (Joint talk with DIP)"
-  location: "ILLC seminar room F1.15 in Science Park 107;"
+  location: "ILLC seminar room F1.15 in Science Park 107"
   url: 
   abstract: >
     **Abstract:** Traditional logical approaches to semantics, while precise, often fail to capture the dynamic and context-dependent nature of human language. This is particularly evident in the interpretation of quantifiers, where individual variation and contextual influences abound. This talk presents a novel probabilistic model of generalized quantifiers that accounts for this variability. By analyzing experimental data, we demonstrate that the 'true meaning' of quantifiers—revealed through probabilistic distributions rather than fixed truth conditions—is far more nuanced than previously acknowledged. Our findings have implications for some debated semantic puzzles, such as the "most" vs. "more than half" puzzle. More broadly, the model may be useful as a psycholinguistic tool, e.g., for studying quantifier processing in neurotypical individuals versus individuals with selective deficits in language abilities.
