@@ -213,13 +213,13 @@
   abstract: >
     **Abstract:** In this talk, I survey certain underappreciated connections between intuitionistic logic (and other broadly constructive logics) and relevance logic. I am particularly interested in a family of heterodox relevance logics whose operational semantical characterizations have an affinity to the informal BHK semantics. Various problems and results connected with these systems are examined, including the disjunction property, embeddings of constructive logics into them, and (un)decidability. On the more philosophical side, I discuss how constructive and relevance logics might inform, and motivate, one another.  (This is an updated version of a talk I gave at the PLEXUS Inaugural Conference in 2023 which takes account of several recent results obtained by various researchers.)
 
-# - date: 2025-01-31 16:00
-#   author: "Matilda Häggblom (University of Helsinki)"
-#   title: "Inclusion and exclusion in team semantics"
-#   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
-#   url: assets\slides\Matilda_slides.pdf
-#   abstract: >
-#     **Abstract:** We consider inclusion and exclusion atoms in team semantics, their individual implication problems, and their respective extensions of propositional team-based logic. The complete systems for exclusion atoms (Casanova & Vidal 1983, Häggblom 2024) depend on whether repetitions of variables are allowed, highlighting the importance of carefully considering such syntactical restrictions. The situation is similar for inclusion atoms (Mitchell 1983, Casanova et al. 1984), where we also present an alternative completeness proof that shows completeness not only in the first-order setting, but also in the propositional setting. We then relax the syntax of propositional inclusion atoms further by allowing boolean constants and show that no finite axiomatization can exist.
+- date: 2025-01-31 16:00
+  author: "Matilda Häggblom (University of Helsinki)"
+  title: "Inclusion and exclusion in team semantics"
+  location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
+  url: assets\slides\Matilda_slides.pdf
+  abstract: >
+    **Abstract:** We consider inclusion and exclusion atoms in team semantics, their individual implication problems, and their respective extensions of propositional team-based logic. The complete systems for exclusion atoms (Casanova & Vidal 1983, Häggblom 2024) depend on whether repetitions of variables are allowed, highlighting the importance of carefully considering such syntactical restrictions. The situation is similar for inclusion atoms (Mitchell 1983, Casanova et al. 1984), where we also present an alternative completeness proof that shows completeness not only in the first-order setting, but also in the propositional setting. We then relax the syntax of propositional inclusion atoms further by allowing boolean constants and show that no finite axiomatization can exist.
 
 - date: 2025-02-06 16:30
   author: "Raffaella Bernardi (Trento)"
