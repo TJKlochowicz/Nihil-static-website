@@ -112,7 +112,7 @@
   author: "Yanjing Wang & Zilu Wang (Peking University)"
   title: "A Bundled Approach to Deontic Logic (joint seminar talk with LIRa)"
   location: "KdVI seminar room F3.20 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
-  url: "assets/slides/bundled_dl.pdf"
+  url: assets/slides/bundled_dl.pdf
   abstract: > 
     **Abstract:** In this talk, we will introduce a new semantic approach to deontic logic based on the so-called bundled modalities, which essentially pack a quantifier and a modality together. Our starting point is the observation that many "strange" logical behaviors of modalities and logical connectives in natural language are due to the fact that they have more complicated inner logical structures in the semantics. Many examples can be found in epistemic logics of know-wh, where the know-wh modalities often have the implicit ∃x structure based on the mention-some interpretation. As the logical puzzles are abundant in deontic logic, a natural question arises for us: are there also some bundles hidden in the deontic modalities? In fact, the possibilities of viewing permissions and obligations as bundles were informally discussed by Hintikka in the early days of deontic logic. For example, Hintikka proposed to understand permission as a bundle of ∀x◇, i.e., an action type α is permitted iff every token of α is executable on some deontically ideal world. Given the techniques of the bundled modalities, we can flesh out this proposal formally, which results in a desirable logic of free-choice permission satisfying most of the intuitive properties. Moreover, this semantics also predicts new logical behaviors not yet discussed in the literature. For example, according to our semantics, one of the four distributive laws of conjunction and disjunction is invalid, which aligns with our linguistic intuition. Besides the bundled modalities, our approach also features the Brouwer-Heyting-Kolmogorov (BHK) style treatment of propositions as action types inspired by intuitionistic logic. This opens the possibility of fine-grained control of the composition of action types in terms of non-classical connectives. It also reveals the subtleties behind the negation, conjunction, and implication in deontic logic. We will end with a discussion on higher-order permissions that can be treated in our approach by allowing nested permission modalities in the language.
 
@@ -120,7 +120,7 @@
   author: "Siyuan Cao"
   title: "Wh-indefinites in Mandarin: The case of shenme"
   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
-  url: assets\slides\NihiLSlides_Siyuan.pdf
+  url: assets/slides/NihiLSlides_Siyuan.pdf
   abstract: > 
     **Abstract:** Wh-indefinites are indefinites having also the interrogative use. The talk will be on the semantics of wh-indefinites in Mandarin with a special focus on a particular Mandarin wh-indefinite "shenme". In its indefinite use, "shenme" behaves like an epistemic indefinite triggering an obligatory ignorance inference when unembedded. Additionally "shenme" displays a form distinction with its two forms -- bare and non-bare "shenme" -- having slightly different distributions with respect to the uses that epistemic indefinites may possibly license. Using the team semantics framework (Aloni & Degano 2022, 2023), I propose that "shenme" is a strict existential with additionally the conditions of variation and maximality, and develop a uniform account of the dual use of "shenme" as either an epistemic indefinite or an interrogative word. The work is based on my master's thesis supervised by Maria Aloni and Marco Degano.
 
@@ -128,7 +128,7 @@
   author: "Flavia Naehrlich (University of Groningen)"
   title: "Homogeneity and non-maximality in default plural predication"
   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
-  url: "assets/slides/homogeneity_nihil.pdf"
+  url: assets/slides/homogeneity_nihil.pdf
   abstract: > 
     **Abstract:** Homogeneity appears in sentences containing plural definite descriptions exemplified by statements such as "The books are written in Dutch." This sentence seems to be clearly true if all of the books referred to are written in Dutch and clearly false if none of them are. Despite the homogeneity requirement, sentences with plural definites can have contextually motivated non-maximal interpretations. Kriz and Spector (2020) present an underspecification account that explains how homogeneity and non-maximality emerge with plural definites. They introduce a concept of strong relevance that filters candidate interpretations based on a QUD-derived partition of the common ground. In this talk, I propose an extension of their framework to encompass generics, which are another structurally complex linguistic construct known to display homogeneity and non-maximality. Furthermore, I briefly discuss to what extend plural predication may represent a cognitive default, particularly in its connection to neglect-zero reasonings.
 
@@ -136,7 +136,7 @@
   author: "Karl Nygren (Stockholm University)"
   title: "Inquisitive logic with modal operators that quantify over alternatives"
   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
-  url: "assets/slides/nygren_slides_nihil_seminar_7_nov_2023.pdf"
+  url: assets/slides/nygren_slides_nihil_seminar_7_nov_2023.pdf
   abstract: > 
     **Abstract:** In propositional inquisitive logic, formulas are evaluated in terms of support at information states, and the maximal information states supporting a formula are the 'alternatives' for the formula. In the first part of the talk, I present an extension of propositional inquisitive logic with a modal operator that roughly expresses that each alternative for its argument formula is consistent with the available information. The resulting logic can be used to model some properties of deontic free-choice inferences, as well as question-directed ignorance. In the second part of the talk, I focus on how to axiomatize the logic by extending it with a version of the global/universal modality. I will also discuss how the technique used to prove completeness can be extended to other types of modal operators with semantics defined in terms of quantification over alternatives, in particular the `minimal cover' modality introduced by Booth (2022, Independent alternatives, Philosophical Studies, 179:1241–1273).
 
@@ -144,7 +144,7 @@
   author: "Yichi (Raven) Zhang (Heinrich Heine Universität Düsseldorf)"
   title: "Beyond the Empty Set: Discourse (In)consistency in Commitment Space Semantics"
   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
-  url: "assets/slides/Raven_Nihil_Slides.pdf"
+  url: assets/slides/Raven_Nihil_Slides.pdf
   abstract: > 
     **Abstract:** In traditional update semantics, there are two commonly employed notions of discourse consistency, both of which are defined in terms of the absurd state, represented by the empty set. A sentence is consistent iff an update with it does not alway results in the absurd state; a sentence is coherent iff updating with it can reach a fixed point that is not the absurd state. However, it has been noted that both notions fall short of capturing all intuitively contradictory sentences in the face of epistemic modal claims. In this talk, I present a novel solution to this puzzle by providing an  analysis of epistemic modals in commitment space semantics. Epistemic modals can have a `meta speech-act' effect on commitment space by delimiting possible developments of the discourse without altering the current common ground. This picture in turn enables a new conception of discourse inconsistency. A non-empty commitment space can still be deemed inconsistent if all possible developments of the current common ground have been ruled out. In addition, I will explore the prospect of providing an axiomatization of the current framework via a translation into possibility semantics.
 
@@ -152,7 +152,7 @@
   author: "Lorenzo Pinton (Massachusetts Institute of Technology)"
   title: "Exclusive Disjunction in BSML. Hurford Disjunctions as evidence for split disjunction support and split conjunction rejection"
   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
-  url: "assets/slides/Lorenzo_Pinton_Hurford_Disunctions_in_BSML_15_12_23.pdf"
+  url: assets/slides/Lorenzo_Pinton_Hurford_Disunctions_in_BSML_15_12_23.pdf
   abstract: > 
     **Abstract:** In this talk I will extend Bilateral State-based Modal Logic from Aloni (2022) with an exclusive disjunction (ED). ED will be "classically" defined as supporting the disjunction of its disjuncts and rejecting their conjunction, with a caveat: conjunction rejection will be encoded as a presupposition, in order to account for the behavior of disjunction under negation. I will claim that implementing ED in a system that rules out zero models by default (i.e. BSML* from Aloni, 2022)  is a better predictor of assertability conditions of disjunction in natural language compared to the standard BSML definition of disjunction and it bears welcomed repercussions for various linguistic phenomena, the foremost being Hurford Disjunctions (Hurford, 1974). I will show how equipping BSML* with ED provides a unified and direct semantic explanation to both standard Hurford Disjunctions and "disjoint Hurford Disjunctions", a novel class of examples of deviant disjunctions in which there is no entailment relation between the two disjuncts: \# Either John lives in Paris and he's married, or he lives in France and he's single. (Amir Anvari, p.c.)) Two other felicitous predictions made by ED in BSML* will then be presented: the "uniqueness" interpretation of sentences with multiple disjuncts and the "validity" of a common fallacy in disjunctive reasoning discussed in Johnson-Laird et al. (1992) and Mascarenhas (2014). I will conclude the talk by showing that assuming ED as the standard meaning for disjunction actually clashes with some results in Aloni (2022) (wide scope free choice) and Degano et al. (2023) (absence of exclusivity in production tasks), and by briefly discussing an in-progress solution to solve the conflicts.
 
@@ -169,7 +169,7 @@
   author: "Justin Bledin (Johns Hopkins University)"
   title: "Free Choice With Arbitrary Objects (joint seminar talk with DIP)"
   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
-  url: "assets/slides/Bledin_Slides.pdf"
+  url: assets/slides/Bledin_Slides.pdf
   abstract: >
     **Abstract:** I develop a uniform treatment of free-choice effects with English 'any', 'or', and wh-ever free relatives within different environments in terms of the notion of an arbitrary object (Fine 1983, 1985, Horsten 2019). In the resulting theory, there are two kinds of indefiniteness or variableness in natural language semantics. There is the indefiniteness of a Hamblin-style alternative set (i.e., variable reference to a definite thing), which behaves in a disjunctive manner due to its being the input to a pointwise compositional principle. And there is the indefiniteness of an arbitrary object (i.e., definite reference to a variable thing), which may be regarded as a peg for hanging properties common to a range of things, with resulting law-like universal or conjunctive effects.
 
@@ -177,7 +177,7 @@
   author: "Giorgio Sbardolini (ILLC)"
   title: "Something from Nothing"
   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
-  url: "assets/slides/Sbardolini_negation_slides.pdf"
+  url: assets/slides/Sbardolini_negation_slides.pdf
   abstract: > 
     **Abstract:** The main topic of this talk is logic and semantic change. I will discuss episodes of semantic change that have to do with the meaning(s) of negation and show how to model them in Bilateral State-based Modal Logic. The discussion will connect with work I have done on lexicalizability (the NAND problem), with ongoing work on homogeneity and definite plurals, and with future work on Negative Polarity Items (the meaning of "any"). Along the way, I will argue that we can use logic to study linguistic fossils, that "not even" is the non-classical negation of "even", that "any" is a non-harmonious quantifier (in the sense of Dummett), and much more. 
   
@@ -185,7 +185,7 @@
   author: "Yanjing Wang (Peking University)"
   title: "Point-set Neighborhood Logic (joint seminar talk with LIRa)"
   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
-  url: "assets/slides/Yanjing_PSNLSlides.pdf"
+  url: assets/slides/Yanjing_PSNLSlides.pdf
   abstract: > 
     **Abstract:** In this paper, we propose Point-set Neighborhood Logic (PSNL) to reason about neighborhood structures. The bimodal language of PSNL is defined via a mutual induction of point-formulas and set-formulas. We show that this simple language is equally expressive as the language of Instantial Neighborhood Logic (INL) proposed by van Benthem et al. (2017). As the main results, we first give two complete proof systems, one in Hilbert-style and one in Gentzen sequent-style, each featuring two intertwined K-like systems. The proof of strong completeness of the Hilbert-style system is based on a direct canonical model construction without relying on a normal form. Based on the sequent calculus, we establish constructively the uniform interpolation property of PSNL, from which that of INL follows. (Joint work with Junhua Yu)
 
@@ -201,7 +201,7 @@
   author: "Haoyu Wang (ILLC)"
   title: "Knowing How to Understand (Generalized) Tensor Disjunction"
   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
-  URL: "assets/slides/Haoyu_slides.pdf"
+  URL: assets/slides/Haoyu_slides.pdf
   abstract: >
     **Abstract:** This talk is based on a joint work with Yanjing Wang and Yunsong Wang. We would like to propose an epistemic interpretation of the tensor disjunction in dependence logic inspired by its connection with the weak disjunction in Medvedev’s early work on intermediate logic based on the BHK-like problem semantics. We expose this rather surprising connection in the setting of propositional inquisitive logic with tensor disjunction discussed in the literature with a powerful epistemic language of knowing how. We give a complete axiomatization of the full logic of this language based on Fine's axiomatization of propositionally quantified S5 modal logic. In this way, we can obtain an intuitive epistemic understanding of the tensor operator. In the second part of the talk, I will discuss a set of generalized tensor operators with the parameters 𝑘 and 𝑛. We show that adding the generalized tensor operators does not increase the expressive power of our dynamic epistemic logic of know-how, the inquisitive logic, and the propositional dependence logic. However, we show that all the non-trivial generalized tensors are not uniformly definable in those languages with the original tensor operator. We also give the complete axiomatizations of extensions of our dynamic epistemic logic and the inquisitive logic with the general tensors.
     
@@ -209,7 +209,7 @@
   author: "Yale Weiss (Philosophy Program and Saul Kripke Center, The Graduate Center, CUNY)"
   title: "Constructivism: Views from Relevance Logic (Joint talk with DIP)"
   location: "ILLC seminar room F1.15 in Science Park 107"
-  URL: "assets/slides/Weiss.pdf"
+  URL: assets/slides/Weiss.pdf
   abstract: >
     **Abstract:** In this talk, I survey certain underappreciated connections between intuitionistic logic (and other broadly constructive logics) and relevance logic. I am particularly interested in a family of heterodox relevance logics whose operational semantical characterizations have an affinity to the informal BHK semantics. Various problems and results connected with these systems are examined, including the disjunction property, embeddings of constructive logics into them, and (un)decidability. On the more philosophical side, I discuss how constructive and relevance logics might inform, and motivate, one another.  (This is an updated version of a talk I gave at the PLEXUS Inaugural Conference in 2023 which takes account of several recent results obtained by various researchers.)
 
@@ -217,7 +217,7 @@
   author: "Matilda Häggblom (University of Helsinki)"
   title: "Inclusion and exclusion in team semantics"
   location: "ILLC seminar room F1.15 in Science Park 107; Zoom: <https://uva-live.zoom.us/j/87618965843>"
-  URL: "assets/slides/Matilda_slides.pdf"
+  URL: assets/slides/Matilda_slides.pdf
   abstract: >
     **Abstract:** We consider inclusion and exclusion atoms in team semantics, their individual implication problems, and their respective extensions of propositional team-based logic. The complete systems for exclusion atoms (Casanova & Vidal 1983, Häggblom 2024) depend on whether repetitions of variables are allowed, highlighting the importance of carefully considering such syntactical restrictions. The situation is similar for inclusion atoms (Mitchell 1983, Casanova et al. 1984), where we also present an alternative completeness proof that shows completeness not only in the first-order setting, but also in the propositional setting. We then relax the syntax of propositional inclusion atoms further by allowing boolean constants and show that no finite axiomatization can exist.
 
