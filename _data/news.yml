@@ -278,7 +278,7 @@
 
     Ronald de Haan has put together a prototype for a reasoning algorithm for bilateral state-based modal logic (BSML) based on answer set programming. 
     Here you can find a brief demonstration and some explanations, as well as a list with some possible research directions:
-    https://github.com/rdehaan/bsml-sat/blob/main/demo.ipynb
+    [https://github.com/rdehaan/bsml-sat/blob/main/demo.ipynb](https://github.com/rdehaan/bsml-sat/blob/main/demo.ipynb) 
     There are a lot of small and large directions for improving this reasoner, and many of them are very much suitable for a small research project or a thesis.
     Please feel free to get in touch with Ronald (me@ronalddehaan.eu) if you are interested in this.
  
