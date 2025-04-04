@@ -24,7 +24,6 @@
 # Experiments are sorted by date, but the date is not displayed.
 # ===================================================================
 
-
 - name: EEG experiment
   date: 2024-05-01
   authors: Sonia Ramotowska
@@ -34,6 +33,16 @@
   more_url: eeg
   description: >
     **We are looking for participants!** [Click here](eeg) to register.
+    
+- name: Acquisition of zero as a number 
+  date: 2025-04-04
+  authors: Sonia Ramotowska, Tomasz Klochowicz and Maria Aloni
+  directory:
+  slides:
+  paper:
+  more_url: 
+  description: >
+    **We are looking for participants!** Contact Sonia Ramotowska (s.ramotowska[at]uva.nl)
 
 - name: Free Choice Questions
   date: 2023-05-01
