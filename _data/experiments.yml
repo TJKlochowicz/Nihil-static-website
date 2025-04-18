@@ -25,7 +25,7 @@
 # ===================================================================
 
 - name: EEG experiment
-  date: 2024-05-01
+  date: 2024-06-10
   authors: Sonia Ramotowska
   directory:
   slides:
@@ -55,6 +55,17 @@
   description: >
          Degano, M., Marty, P., Ramotowska, S., Aloni, M., Breheny, R., Romoli, J., & Sudo, Y. The ups and downs of ignorance. <em>Natural Language Semantics.</em> 2025.
        
+
+- name: Neglect-Zero Effects in the Interpretation of Quantifiers and Disjunction
+  date: 2024-02-02
+  authors: Oliver Bott, Fabian Schlotterbeck, Tomasz Klochowicz, Sonia Ramotowska, Maria Aloni 
+  directory:
+  slides:
+  paper:    
+  more_url:   
+  description: >
+    Presented at Sinn und Bedeutung 2024
+
 
 
 - name: Free Choice Questions
