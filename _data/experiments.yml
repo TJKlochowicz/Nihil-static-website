@@ -44,12 +44,24 @@
   description: >
       We are looking for children aged 4-5 to participate in the pilot of a linguistic experiment conducted at the University of Amsterdam by Sonia Ramotowska, Maria Aloni, Tomasz Klochowicz, Ingmar Visser, and Jakub Szymanik. The test will last approximately 30 minutes, including breaks. Your child will receive a small gift as a token of our appreciation for participation. The experiment will be conducted in Dutch. Your child has to be able to communicate in Dutch to participate in this research. The research consists of several playful tasks testing children’s abilities to count and order numericities as well as their understanding of numerical expressions (fewer than) and disjunction (or). First, the experimenter will make good contact with your child. Then, your child will interact with a puppet and play a game. Your child will see cards with depicted fruits and will be asked to choose among them the cards the puppet likes. The experimenter will record the child’s responses in the spreadsheet. Your child will be participating in this research project voluntarily. You are free to decide that you do not want your child to participate in the research. Your child is also free to decide that they do not want to take part or wants to stop taking part at any stage of the project. To sign up and for further information on the research project, please contact Sonia Ramotowska (s.ramotowska[@]uva.nl).
 
+
+- name: Ups and downs of Ignorance
+  date: 2024-05-01
+  authors: Marco Degano, Paul Marty, Sonia Ramotowska, Maria Aloni, Richard Breheny, Jacopo Romoli & Yasu Sudo.
+  directory:
+  slides:
+  paper:  Degano, M., Marty, P., Ramotowska, S., Aloni, M., Breheny, R., Romoli, J., & Sudo, Y. The ups and downs of ignorance. <em>Natural Language Semantics.</em> 2025.
+  more_url:  http://doi.org/10.1007/s11050-024-09226-3
+  description: >
+       
+
+
 - name: Free Choice Questions
   date: 2023-05-01
   authors: Tomasz Klochowicz
   directory:
   slides:
-  paper:
-  more_url: https://osf.io/preprints/osf/fc9qv_v1
+  paper: https://osf.io/preprints/osf/fc9qv_v1
+  more_url:  
   description: >
        Klochowicz, T. Free choice questions. In Phadnis, S., Spellerberg, C., & Brynne, W., editor(s), NELS 54: Proceedings of the Fifty-Fourth Annual Meeting of the North East Linguistic Society, volume 2, Dec 2024. University of Massachusetts GLSA.      
