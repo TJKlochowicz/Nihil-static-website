@@ -128,3 +128,10 @@
   img: assets/images/wzhou.png
   url:
   role: main
+
+- name: Fabian
+  lastname: Kaijzel
+  affiliation:  University of Amsterdam
+  img: assets/images/Fabian.jpeg
+  url:
+  role: main
