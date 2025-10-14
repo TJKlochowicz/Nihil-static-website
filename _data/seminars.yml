@@ -236,3 +236,12 @@
   url: 
   abstract: >
     **Abstract:** Traditional logical approaches to semantics, while precise, often fail to capture the dynamic and context-dependent nature of human language. This is particularly evident in the interpretation of quantifiers, where individual variation and contextual influences abound. This talk presents a novel probabilistic model of generalized quantifiers that accounts for this variability. By analyzing experimental data, we demonstrate that the 'true meaning' of quantifiers—revealed through probabilistic distributions rather than fixed truth conditions—is far more nuanced than previously acknowledged. Our findings have implications for some debated semantic puzzles, such as the "most" vs. "more than half" puzzle. More broadly, the model may be useful as a psycholinguistic tool, e.g., for studying quantifier processing in neurotypical individuals versus individuals with selective deficits in language abilities.
+
+- date: 2025-10-22 16:00
+  author: "Fausto Barbero (University of Helsinki)"
+  title: "Modeling and axiomatizing indeterministic counterfactuals. (Joint talk with LLAMA)"
+  location: "ILLC seminar room F1.15 in Science Park 107;"
+  url: 
+  abstract: >
+    **Abstract:** Interventionist counterfactuals are expressions of the form "If such and such variables had been set to such and such values, then condition phi would hold". They underlie much of the modern discussion on causal inference. Halpern (2000) briefly suggested an extension of causal models to the case of indeterministic causal laws. Developing a concrete semantics for counterfactuals in this context presents some new challenges, some of which I will point out. I will propose a notion of model based on the causal team semantics of Barbero and Sandu (2020) and present complete axiomatizations for languages of unnested and right-nested counterfactuals in a number of significant classes of model; I will then compare them to the classical complete systems for the deterministic case.
+
