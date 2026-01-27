@@ -256,7 +256,7 @@
 - date: 2026-02-06 16:00
   author: "Matilda Häggblom (University of Helsinki)"
   title: "Capturing dual properties with propositional team logics."
-  location: "ILLC seminar room F1.15 in Science Park 107;"
+  location: "Room F3.20 in Science Park 107;"
   url: 
   abstract: >
     **Abstract:** Motivated by the natural set-theoretic duality between downward and upward closed families of sets, we ask whether it is possible to capture a similar duality in propositional team logics expressively complete for all downward/upward closed team properties. We answer positively by using dual variants of atoms that capture inclusion dependencies. Furthermore, we introduce quasi-variants of the downward and upward closed logics where the empty and full team take on special roles. Another set-theoretic duality is that for unions and intersections, and we discuss some preliminary results on an intersection closed logic.
