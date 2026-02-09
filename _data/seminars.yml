@@ -260,3 +260,11 @@
   url: 
   abstract: >
     **Abstract:** Motivated by the natural set-theoretic duality between downward and upward closed families of sets, we ask whether it is possible to capture a similar duality in propositional team logics expressively complete for all downward/upward closed team properties. We answer positively by using dual variants of atoms that capture inclusion dependencies. Furthermore, we introduce quasi-variants of the downward and upward closed logics where the empty and full team take on special roles. Another set-theoretic duality is that for unions and intersections, and we discuss some preliminary results on an intersection closed logic.
+
+- date: 2026-02-19 16:30
+  author: "Søren Knudstorp (ILLC, University of Amsterdam)"
+  title: "Truthmakers and Information States: Inclusion, Containment, Duality (joint talk with LIRa"
+  location: "ILLC Seminar Room F1.15, Science Park 107 and online (contact LIRa organisers for link)"
+  url: https://projects.illc.uva.nl/lgc/seminar/2026/01/joint-nihil-lira-session-soren-knudstorp/
+  abstract: >
+    **Abstract:** I highlight points of contact between truthmaker semantics and information semantics as studied in the tradition of inquisitive and team semantics, such as Aloni’s (2022) BSML. First, I show how to obtain a sound and complete semantics for Angell’s (1977) Analytic Containment by tweaking the semantics of BSML. This also achieves an information semantics complete for replete truthmaker entailment. Next, I present a full and faithful translation of BSML, inquisitive logic, dependence logic, and other propositional team logics into a modal logic. This modal logic can be taken to be that of van Benthem’s (2019) translation of truthmaker semantics [cf. SBK (2023)], thereby enabling comparison of the two traditions within a common framework. Lastly, if time permits, I note further points of comparison, including (i) regular truthmaker propositions vs. meanings in BSML, (ii) conjunctive vs. disjunctive states, and (iii) potential benefits of combining the traditions through sets of truthmakers (this is joint work in progress with Robert van Rooij).
