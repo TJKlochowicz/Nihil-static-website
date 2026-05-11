@@ -271,8 +271,11 @@
 
 - date: 2026-05-12 13:00
   author: "Zhuoye Zhao (IJN, Paris)"
-  title: " TBA (joint talk with MLC)"
+  title: " Not just about time: a cross-domain hypothesis of Mandarin LE (joint talk with MLC)"
   location: "ILLC Seminar Room F1.15, Science Park 107"
   url:  https://projects.illc.uva.nl/FSPL/MLC-Seminar/event/35289/Zhuoye-Zhao-NYU-TBA
   abstract: >
-   **Abstract:** TBA
+   **Abstract:**  This talk advocates for a cross-domain approach to temporal semantics. I will focus on the semantics of the verbal-suffix le, a central puzzle in the study of the temporal system of Mandarin. It is argued that instead of a dedicated temporal morpheme, le should be construed as a cross-domain functional particle underspecified for the associated semantic domain. The key motivation for this characterization comes from the parallel uses of le in run-of-the-mill VPs (1) and comparatives (2) that are subject to similar licensing conditions – here reflected as the requirement for measure phrases. Le is responsible for the past interpretation in (1), which is absent in (2).
+   (1)  Nézha xǐhuān le Yángjiǎn ∗(wǔ-nián). Nezha like le Yangjian ∗(five-year) ‘Nezha liked Yangjian for five years.’
+   (2)  Nézha bǐ Yángjiǎn gāo le #(wǔ-gōngfēn). Nezha compare Yangjian tall le #(five-centimeter) ‘Nezha is 5cm taller than Yangjian.’
+   I will show that the behaviors of le across these constructions follow from a single parameterized entry. The sentential meanings of (1) and (2) are derived in parallel with le imposing a ‘precedence’ relation, respectively on the timeline and the degree scale (of height). The licensing condition of le reflects a semantic constraint against prejacents that satisfy the property I call ‘Atomic Distributiv- ity’. The latter is essentially a domain-neutral, strict version of the ‘subinterval property’ (Bennett & Partee 1972). I will further demonstrate that this characterization delivers a satisfactory account for other temporal behaviors of le, and can be extended to its association with the spatial domain, when interacting with so-called as ‘extent predicates’ (Gawron 2005, 2009).
